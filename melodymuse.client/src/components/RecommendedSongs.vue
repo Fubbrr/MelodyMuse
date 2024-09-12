@@ -202,7 +202,7 @@
                 this.showAllArtist = true;
             },
             togglePlayIcon(song) {
-                this.$store.commit('addSongToList', song);
+                this.$store.commit('addSongToList', song.songId);
 
                 // 更新当前播放的歌曲 ID
                 this.$store.commit('setId', song.songId);
