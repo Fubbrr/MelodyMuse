@@ -1,0 +1,1497 @@
+{
+"ARTIST": [
+	{
+		"ARTIST_ID" : "1",
+		"ARTIST_NAME" : "30年前，50年后",
+		"ARTIST_BIRTHDAY" : "2010-09-27T01:48:45.000Z",
+		"ARTIST_INTRO" : "日本流行歌手",
+		"ARTIST_GENRE" : "女",
+		"ARTIST_FANS_NUM" : 41712680,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "2",
+		"ARTIST_NAME" : "Adam Lambert",
+		"ARTIST_BIRTHDAY" : "1980-03-24T23:44:13.000Z",
+		"ARTIST_INTRO" : "英国拉丁歌手",
+		"ARTIST_GENRE" : "女",
+		"ARTIST_FANS_NUM" : 62888503,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "3",
+		"ARTIST_NAME" : "Aioz",
+		"ARTIST_BIRTHDAY" : "2000-08-14T13:34:57.000Z",
+		"ARTIST_INTRO" : "美国嘻哈歌手",
+		"ARTIST_GENRE" : "女",
+		"ARTIST_FANS_NUM" : 25601776,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "4",
+		"ARTIST_NAME" : "Beyond",
+		"ARTIST_BIRTHDAY" : "1992-02-13T13:41:14.000Z",
+		"ARTIST_INTRO" : "欧美拉丁歌手",
+		"ARTIST_GENRE" : "女",
+		"ARTIST_FANS_NUM" : 80670714,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "5",
+		"ARTIST_NAME" : "BIGBANG",
+		"ARTIST_BIRTHDAY" : "1994-09-02T13:23:32.000Z",
+		"ARTIST_INTRO" : "欧美古典歌手",
+		"ARTIST_GENRE" : "男",
+		"ARTIST_FANS_NUM" : 32742765,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "6",
+		"ARTIST_NAME" : "Billie Eilish",
+		"ARTIST_BIRTHDAY" : "2000-05-06T00:56:37.000Z",
+		"ARTIST_INTRO" : "美国金属歌手",
+		"ARTIST_GENRE" : "女",
+		"ARTIST_FANS_NUM" : 50167813,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "7",
+		"ARTIST_NAME" : "Bruno Mars",
+		"ARTIST_BIRTHDAY" : "2002-11-20T21:19:03.000Z",
+		"ARTIST_INTRO" : "欧美拉丁歌手",
+		"ARTIST_GENRE" : "女",
+		"ARTIST_FANS_NUM" : 21533075,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "8",
+		"ARTIST_NAME" : "Capper",
+		"ARTIST_BIRTHDAY" : "2003-08-16T14:53:39.000Z",
+		"ARTIST_INTRO" : "韩国古典歌手",
+		"ARTIST_GENRE" : "男",
+		"ARTIST_FANS_NUM" : 90579700,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "9",
+		"ARTIST_NAME" : "CashMoon",
+		"ARTIST_BIRTHDAY" : "1982-11-20T06:36:57.000Z",
+		"ARTIST_INTRO" : "华语拉丁歌手",
+		"ARTIST_GENRE" : "男",
+		"ARTIST_FANS_NUM" : 72039535,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "10",
+		"ARTIST_NAME" : "Charlie Puth",
+		"ARTIST_BIRTHDAY" : "1999-03-18T01:19:35.000Z",
+		"ARTIST_INTRO" : "英国金属歌手",
+		"ARTIST_GENRE" : "男",
+		"ARTIST_FANS_NUM" : 54860034,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "11",
+		"ARTIST_NAME" : "Coldplay",
+		"ARTIST_BIRTHDAY" : "2000-09-11T00:00:49.000Z",
+		"ARTIST_INTRO" : "韩国嘻哈歌手",
+		"ARTIST_GENRE" : "男",
+		"ARTIST_FANS_NUM" : 50705022,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "12",
+		"ARTIST_NAME" : "DJ铁柱",
+		"ARTIST_BIRTHDAY" : "1997-08-12T20:19:22.000Z",
+		"ARTIST_INTRO" : "欧美拉丁歌手",
+		"ARTIST_GENRE" : "男",
+		"ARTIST_FANS_NUM" : 5407055,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "13",
+		"ARTIST_NAME" : "DJ阿智",
+		"ARTIST_BIRTHDAY" : "2010-03-19T20:37:05.000Z",
+		"ARTIST_INTRO" : "美国舞曲歌手",
+		"ARTIST_GENRE" : "男",
+		"ARTIST_FANS_NUM" : 60401992,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "14",
+		"ARTIST_NAME" : "Ed Sheeran",
+		"ARTIST_BIRTHDAY" : "1989-08-25T00:23:31.000Z",
+		"ARTIST_INTRO" : "日本拉丁歌手",
+		"ARTIST_GENRE" : "女",
+		"ARTIST_FANS_NUM" : 63570651,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "15",
+		"ARTIST_NAME" : "emovo",
+		"ARTIST_BIRTHDAY" : "1989-05-13T03:01:31.000Z",
+		"ARTIST_INTRO" : "欧美电子歌手",
+		"ARTIST_GENRE" : "女",
+		"ARTIST_FANS_NUM" : 50809047,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "16",
+		"ARTIST_NAME" : "Fine乐团",
+		"ARTIST_BIRTHDAY" : "1992-12-18T22:34:13.000Z",
+		"ARTIST_INTRO" : "英国R&B歌手",
+		"ARTIST_GENRE" : "女",
+		"ARTIST_FANS_NUM" : 25058458,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "17",
+		"ARTIST_NAME" : "G.E.M.邓紫棋",
+		"ARTIST_BIRTHDAY" : "1990-08-30T07:54:53.000Z",
+		"ARTIST_INTRO" : "英国另类歌手",
+		"ARTIST_GENRE" : "女",
+		"ARTIST_FANS_NUM" : 74342072,
+		"USER_ID" : "001"
+	},
+	{
+		"ARTIST_ID" : "18",
+		"ARTIST_NAME" : "h3R3",
+		"ARTIST_BIRTHDAY" : "2001-10-05T06:55:31.000Z",
+		"ARTIST_INTRO" : "华语新世纪歌手",
+		"ARTIST_GENRE" : "女",
+		"ARTIST_FANS_NUM" : 48095997,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "19",
+		"ARTIST_NAME" : "HOYO-MiX",
+		"ARTIST_BIRTHDAY" : "2005-04-14T18:04:43.000Z",
+		"ARTIST_INTRO" : "日本舞曲歌手",
+		"ARTIST_GENRE" : "女",
+		"ARTIST_FANS_NUM" : 9165327,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "20",
+		"ARTIST_NAME" : "JinJiBeWater_隼",
+		"ARTIST_BIRTHDAY" : "1987-03-04T15:43:56.000Z",
+		"ARTIST_INTRO" : "英国拉丁歌手",
+		"ARTIST_GENRE" : "女",
+		"ARTIST_FANS_NUM" : 87663457,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "21",
+		"ARTIST_NAME" : "JORDANN",
+		"ARTIST_BIRTHDAY" : "2007-08-24T02:04:12.000Z",
+		"ARTIST_INTRO" : "欧美拉丁歌手",
+		"ARTIST_GENRE" : "女",
+		"ARTIST_FANS_NUM" : 79209148,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "22",
+		"ARTIST_NAME" : "Justin Bieber",
+		"ARTIST_BIRTHDAY" : "1982-04-14T13:07:30.000Z",
+		"ARTIST_INTRO" : "日本嘻哈歌手",
+		"ARTIST_GENRE" : "男",
+		"ARTIST_FANS_NUM" : 74625364,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "23",
+		"ARTIST_NAME" : "JZlee",
+		"ARTIST_BIRTHDAY" : "1980-01-13T03:04:05.000Z",
+		"ARTIST_INTRO" : "英国古典歌手",
+		"ARTIST_GENRE" : "女",
+		"ARTIST_FANS_NUM" : 51769971,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "24",
+		"ARTIST_NAME" : "kkluv",
+		"ARTIST_BIRTHDAY" : "1994-09-28T22:14:28.000Z",
+		"ARTIST_INTRO" : "韩国爵士歌手",
+		"ARTIST_GENRE" : "男",
+		"ARTIST_FANS_NUM" : 82577572,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "25",
+		"ARTIST_NAME" : "LBI利比",
+		"ARTIST_BIRTHDAY" : "2002-07-09T07:02:12.000Z",
+		"ARTIST_INTRO" : "华语金属歌手",
+		"ARTIST_GENRE" : "男",
+		"ARTIST_FANS_NUM" : 14517793,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "26",
+		"ARTIST_NAME" : "ljz329",
+		"ARTIST_BIRTHDAY" : "1992-08-17T17:41:12.000Z",
+		"ARTIST_INTRO" : "日本流行歌手",
+		"ARTIST_GENRE" : "女",
+		"ARTIST_FANS_NUM" : 83467049,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "27",
+		"ARTIST_NAME" : "mac ova seas",
+		"ARTIST_BIRTHDAY" : "2003-05-11T11:37:16.000Z",
+		"ARTIST_INTRO" : "英国乡村歌手",
+		"ARTIST_GENRE" : "男",
+		"ARTIST_FANS_NUM" : 51525616,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "28",
+		"ARTIST_NAME" : "MC HotDog 热狗",
+		"ARTIST_BIRTHDAY" : "1985-11-01T20:37:00.000Z",
+		"ARTIST_INTRO" : "美国金属歌手",
+		"ARTIST_GENRE" : "男",
+		"ARTIST_FANS_NUM" : 66415977,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "29",
+		"ARTIST_NAME" : "Mikey-18",
+		"ARTIST_BIRTHDAY" : "2005-10-29T18:45:31.000Z",
+		"ARTIST_INTRO" : "韩国新世纪歌手",
+		"ARTIST_GENRE" : "男",
+		"ARTIST_FANS_NUM" : 19390934,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "30",
+		"ARTIST_NAME" : "Olly Murs",
+		"ARTIST_BIRTHDAY" : "2002-12-20T17:31:58.000Z",
+		"ARTIST_INTRO" : "英国爵士歌手",
+		"ARTIST_GENRE" : "男",
+		"ARTIST_FANS_NUM" : 35114787,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "31",
+		"ARTIST_NAME" : "oz",
+		"ARTIST_BIRTHDAY" : "1984-08-15T15:31:08.000Z",
+		"ARTIST_INTRO" : "日本电子歌手",
+		"ARTIST_GENRE" : "男",
+		"ARTIST_FANS_NUM" : 42523392,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "32",
+		"ARTIST_NAME" : "Ron",
+		"ARTIST_BIRTHDAY" : "1993-05-12T18:25:12.000Z",
+		"ARTIST_INTRO" : "英国拉丁歌手",
+		"ARTIST_GENRE" : "男",
+		"ARTIST_FANS_NUM" : 97596168,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "33",
+		"ARTIST_NAME" : "Starling8",
+		"ARTIST_BIRTHDAY" : "1999-10-18T13:59:48.000Z",
+		"ARTIST_INTRO" : "日本另类歌手",
+		"ARTIST_GENRE" : "男",
+		"ARTIST_FANS_NUM" : 35793785,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "34",
+		"ARTIST_NAME" : "Taylor Swift",
+		"ARTIST_BIRTHDAY" : "2009-12-18T19:10:24.000Z",
+		"ARTIST_INTRO" : "英国电子歌手",
+		"ARTIST_GENRE" : "女",
+		"ARTIST_FANS_NUM" : 79886847,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "35",
+		"ARTIST_NAME" : "TC",
+		"ARTIST_BIRTHDAY" : "1982-11-18T12:32:02.000Z",
+		"ARTIST_INTRO" : "韩国新世纪歌手",
+		"ARTIST_GENRE" : "男",
+		"ARTIST_FANS_NUM" : 85191828,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "36",
+		"ARTIST_NAME" : "The Chainsmokers",
+		"ARTIST_BIRTHDAY" : "2008-02-17T21:12:21.000Z",
+		"ARTIST_INTRO" : "美国新世纪歌手",
+		"ARTIST_GENRE" : "女",
+		"ARTIST_FANS_NUM" : 52597061,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "37",
+		"ARTIST_NAME" : "The Weeknd",
+		"ARTIST_BIRTHDAY" : "1997-10-10T18:30:56.000Z",
+		"ARTIST_INTRO" : "华语另类歌手",
+		"ARTIST_GENRE" : "女",
+		"ARTIST_FANS_NUM" : 90152790,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "38",
+		"ARTIST_NAME" : "thomeboydontkill",
+		"ARTIST_BIRTHDAY" : "1987-12-01T22:22:24.000Z",
+		"ARTIST_INTRO" : "华语乡村歌手",
+		"ARTIST_GENRE" : "女",
+		"ARTIST_FANS_NUM" : 33974355,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "39",
+		"ARTIST_NAME" : "TizzyT",
+		"ARTIST_BIRTHDAY" : "1998-08-28T21:17:11.000Z",
+		"ARTIST_INTRO" : "欧美新世纪歌手",
+		"ARTIST_GENRE" : "女",
+		"ARTIST_FANS_NUM" : 12692222,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "40",
+		"ARTIST_NAME" : "Wiz Khalifa",
+		"ARTIST_BIRTHDAY" : "1987-08-07T16:44:21.000Z",
+		"ARTIST_INTRO" : "美国新世纪歌手",
+		"ARTIST_GENRE" : "女",
+		"ARTIST_FANS_NUM" : 34597996,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "41",
+		"ARTIST_NAME" : "Wiz_H张子豪",
+		"ARTIST_BIRTHDAY" : "2000-10-20T15:29:06.000Z",
+		"ARTIST_INTRO" : "欧美民谣歌手",
+		"ARTIST_GENRE" : "女",
+		"ARTIST_FANS_NUM" : 77692785,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "42",
+		"ARTIST_NAME" : "YOASOBI",
+		"ARTIST_BIRTHDAY" : "1980-01-08T13:28:17.000Z",
+		"ARTIST_INTRO" : "美国另类歌手",
+		"ARTIST_GENRE" : "男",
+		"ARTIST_FANS_NUM" : 68327408,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "43",
+		"ARTIST_NAME" : "Zy",
+		"ARTIST_BIRTHDAY" : "1998-05-26T13:37:31.000Z",
+		"ARTIST_INTRO" : "欧美拉丁歌手",
+		"ARTIST_GENRE" : "男",
+		"ARTIST_FANS_NUM" : 6817295,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "44",
+		"ARTIST_NAME" : "万能青年旅店",
+		"ARTIST_BIRTHDAY" : "1992-03-23T12:04:15.000Z",
+		"ARTIST_INTRO" : "英国乡村歌手",
+		"ARTIST_GENRE" : "男",
+		"ARTIST_FANS_NUM" : 81928500,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "45",
+		"ARTIST_NAME" : "不是花火呀",
+		"ARTIST_BIRTHDAY" : "1987-02-01T21:02:32.000Z",
+		"ARTIST_INTRO" : "英国流行歌手",
+		"ARTIST_GENRE" : "男",
+		"ARTIST_FANS_NUM" : 35807172,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "46",
+		"ARTIST_NAME" : "买辣椒也用券",
+		"ARTIST_BIRTHDAY" : "1985-03-07T21:55:16.000Z",
+		"ARTIST_INTRO" : "日本电子歌手",
+		"ARTIST_GENRE" : "女",
+		"ARTIST_FANS_NUM" : 19257360,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "47",
+		"ARTIST_NAME" : "五月天",
+		"ARTIST_BIRTHDAY" : "2003-08-30T08:02:32.000Z",
+		"ARTIST_INTRO" : "欧美民谣歌手",
+		"ARTIST_GENRE" : "男",
+		"ARTIST_FANS_NUM" : 19887804,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "48",
+		"ARTIST_NAME" : "任然",
+		"ARTIST_BIRTHDAY" : "1993-02-09T23:59:24.000Z",
+		"ARTIST_INTRO" : "日本民谣歌手",
+		"ARTIST_GENRE" : "男",
+		"ARTIST_FANS_NUM" : 81919376,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "49",
+		"ARTIST_NAME" : "余佳运",
+		"ARTIST_BIRTHDAY" : "1989-05-05T19:12:06.000Z",
+		"ARTIST_INTRO" : "韩国R&B歌手",
+		"ARTIST_GENRE" : "女",
+		"ARTIST_FANS_NUM" : 47319938,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "50",
+		"ARTIST_NAME" : "傲七爷",
+		"ARTIST_BIRTHDAY" : "2003-07-06T10:25:34.000Z",
+		"ARTIST_INTRO" : "日本舞曲歌手",
+		"ARTIST_GENRE" : "女",
+		"ARTIST_FANS_NUM" : 708966,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "51",
+		"ARTIST_NAME" : "凤凰传奇",
+		"ARTIST_BIRTHDAY" : "1980-12-24T12:11:47.000Z",
+		"ARTIST_INTRO" : "欧美流行歌手",
+		"ARTIST_GENRE" : "女",
+		"ARTIST_FANS_NUM" : 27327893,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "52",
+		"ARTIST_NAME" : "刘兆宇",
+		"ARTIST_BIRTHDAY" : "2000-05-24T23:30:14.000Z",
+		"ARTIST_INTRO" : "韩国古典歌手",
+		"ARTIST_GENRE" : "男",
+		"ARTIST_FANS_NUM" : 66500552,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "53",
+		"ARTIST_NAME" : "刘大拿",
+		"ARTIST_BIRTHDAY" : "1994-01-19T08:39:45.000Z",
+		"ARTIST_INTRO" : "美国民谣歌手",
+		"ARTIST_GENRE" : "女",
+		"ARTIST_FANS_NUM" : 22510260,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "54",
+		"ARTIST_NAME" : "刘思达LOFTHESTAR",
+		"ARTIST_BIRTHDAY" : "1989-12-16T00:58:30.000Z",
+		"ARTIST_INTRO" : "华语金属歌手",
+		"ARTIST_GENRE" : "女",
+		"ARTIST_FANS_NUM" : 38971998,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "55",
+		"ARTIST_NAME" : "刘惜君",
+		"ARTIST_BIRTHDAY" : "2008-02-01T16:37:43.000Z",
+		"ARTIST_INTRO" : "欧美另类歌手",
+		"ARTIST_GENRE" : "女",
+		"ARTIST_FANS_NUM" : 94047849,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "56",
+		"ARTIST_NAME" : "华晨宇",
+		"ARTIST_BIRTHDAY" : "1989-09-03T06:37:09.000Z",
+		"ARTIST_INTRO" : "欧美拉丁歌手",
+		"ARTIST_GENRE" : "男",
+		"ARTIST_FANS_NUM" : 76724187,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "57",
+		"ARTIST_NAME" : "单依纯",
+		"ARTIST_BIRTHDAY" : "1995-02-17T19:56:50.000Z",
+		"ARTIST_INTRO" : "华语新世纪歌手",
+		"ARTIST_GENRE" : "女",
+		"ARTIST_FANS_NUM" : 91511971,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "59",
+		"ARTIST_NAME" : "司南",
+		"ARTIST_BIRTHDAY" : "1996-02-24T07:21:28.000Z",
+		"ARTIST_INTRO" : "美国新世纪歌手",
+		"ARTIST_GENRE" : "男",
+		"ARTIST_FANS_NUM" : 47800534,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "60",
+		"ARTIST_NAME" : "吴炳文",
+		"ARTIST_BIRTHDAY" : "2010-09-10T20:26:43.000Z",
+		"ARTIST_INTRO" : "欧美乡村歌手",
+		"ARTIST_GENRE" : "男",
+		"ARTIST_FANS_NUM" : 23212235,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "61",
+		"ARTIST_NAME" : "吴莫愁",
+		"ARTIST_BIRTHDAY" : "2007-05-12T23:09:18.000Z",
+		"ARTIST_INTRO" : "欧美乡村歌手",
+		"ARTIST_GENRE" : "男",
+		"ARTIST_FANS_NUM" : 75007429,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "62",
+		"ARTIST_NAME" : "告五人",
+		"ARTIST_BIRTHDAY" : "1995-12-30T23:19:11.000Z",
+		"ARTIST_INTRO" : "韩国舞曲歌手",
+		"ARTIST_GENRE" : "男",
+		"ARTIST_FANS_NUM" : 73108853,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "63",
+		"ARTIST_NAME" : "周公",
+		"ARTIST_BIRTHDAY" : "2004-10-15T21:21:44.000Z",
+		"ARTIST_INTRO" : "韩国嘻哈歌手",
+		"ARTIST_GENRE" : "男",
+		"ARTIST_FANS_NUM" : 19030993,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "64",
+		"ARTIST_NAME" : "周杰伦",
+		"ARTIST_BIRTHDAY" : "2008-06-29T01:02:07.000Z",
+		"ARTIST_INTRO" : "英国嘻哈歌手",
+		"ARTIST_GENRE" : "男",
+		"ARTIST_FANS_NUM" : 52548553,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "65",
+		"ARTIST_NAME" : "周深",
+		"ARTIST_BIRTHDAY" : "1995-01-10T22:03:53.000Z",
+		"ARTIST_INTRO" : "美国嘻哈歌手",
+		"ARTIST_GENRE" : "男",
+		"ARTIST_FANS_NUM" : 29030379,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "66",
+		"ARTIST_NAME" : "哩哩",
+		"ARTIST_BIRTHDAY" : "1996-02-23T19:01:36.000Z",
+		"ARTIST_INTRO" : "华语舞曲歌手",
+		"ARTIST_GENRE" : "女",
+		"ARTIST_FANS_NUM" : 1407735,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "67",
+		"ARTIST_NAME" : "唐伯虎Annie",
+		"ARTIST_BIRTHDAY" : "1984-05-24T20:49:24.000Z",
+		"ARTIST_INTRO" : "美国摇滚歌手",
+		"ARTIST_GENRE" : "女",
+		"ARTIST_FANS_NUM" : 20775230,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "68",
+		"ARTIST_NAME" : "塞壬唱片-MSR",
+		"ARTIST_BIRTHDAY" : "1986-08-22T22:22:51.000Z",
+		"ARTIST_INTRO" : "日本舞曲歌手",
+		"ARTIST_GENRE" : "男",
+		"ARTIST_FANS_NUM" : 80893138,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "69",
+		"ARTIST_NAME" : "夏日入侵企画",
+		"ARTIST_BIRTHDAY" : "1994-06-02T23:16:00.000Z",
+		"ARTIST_INTRO" : "华语拉丁歌手",
+		"ARTIST_GENRE" : "女",
+		"ARTIST_FANS_NUM" : 97828052,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "70",
+		"ARTIST_NAME" : "姚晓棠",
+		"ARTIST_BIRTHDAY" : "1984-11-23T02:48:15.000Z",
+		"ARTIST_INTRO" : "欧美拉丁歌手",
+		"ARTIST_GENRE" : "男",
+		"ARTIST_FANS_NUM" : 20685936,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "71",
+		"ARTIST_NAME" : "孙楠",
+		"ARTIST_BIRTHDAY" : "2005-12-07T02:30:02.000Z",
+		"ARTIST_INTRO" : "华语舞曲歌手",
+		"ARTIST_GENRE" : "男",
+		"ARTIST_FANS_NUM" : 31239900,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "72",
+		"ARTIST_NAME" : "孙燕姿",
+		"ARTIST_BIRTHDAY" : "2000-02-16T01:46:15.000Z",
+		"ARTIST_INTRO" : "英国舞曲歌手",
+		"ARTIST_GENRE" : "女",
+		"ARTIST_FANS_NUM" : 47561446,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "73",
+		"ARTIST_NAME" : "宝宝巴士",
+		"ARTIST_BIRTHDAY" : "1987-02-19T17:30:03.000Z",
+		"ARTIST_INTRO" : "韩国爵士歌手",
+		"ARTIST_GENRE" : "女",
+		"ARTIST_FANS_NUM" : 25565844,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "74",
+		"ARTIST_NAME" : "宝石Gem",
+		"ARTIST_BIRTHDAY" : "2004-11-30T01:01:09.000Z",
+		"ARTIST_INTRO" : "美国拉丁歌手",
+		"ARTIST_GENRE" : "女",
+		"ARTIST_FANS_NUM" : 81061234,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "75",
+		"ARTIST_NAME" : "容祖儿",
+		"ARTIST_BIRTHDAY" : "1998-05-19T16:23:38.000Z",
+		"ARTIST_INTRO" : "欧美嘻哈歌手",
+		"ARTIST_GENRE" : "男",
+		"ARTIST_FANS_NUM" : 47539416,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "76",
+		"ARTIST_NAME" : "小瑞",
+		"ARTIST_BIRTHDAY" : "1997-11-09T22:48:36.000Z",
+		"ARTIST_INTRO" : "韩国拉丁歌手",
+		"ARTIST_GENRE" : "女",
+		"ARTIST_FANS_NUM" : 48835468,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "77",
+		"ARTIST_NAME" : "小田音乐社",
+		"ARTIST_BIRTHDAY" : "1998-05-21T03:57:33.000Z",
+		"ARTIST_INTRO" : "英国拉丁歌手",
+		"ARTIST_GENRE" : "男",
+		"ARTIST_FANS_NUM" : 98939198,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "78",
+		"ARTIST_NAME" : "就是南方凯",
+		"ARTIST_BIRTHDAY" : "2008-01-07T09:02:19.000Z",
+		"ARTIST_INTRO" : "英国乡村歌手",
+		"ARTIST_GENRE" : "女",
+		"ARTIST_FANS_NUM" : 60595353,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "79",
+		"ARTIST_NAME" : "尹昔眠",
+		"ARTIST_BIRTHDAY" : "1994-11-13T10:19:19.000Z",
+		"ARTIST_INTRO" : "英国R&B歌手",
+		"ARTIST_GENRE" : "女",
+		"ARTIST_FANS_NUM" : 767740,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "80",
+		"ARTIST_NAME" : "廖俊涛",
+		"ARTIST_BIRTHDAY" : "1997-02-02T07:03:44.000Z",
+		"ARTIST_INTRO" : "欧美拉丁歌手",
+		"ARTIST_GENRE" : "男",
+		"ARTIST_FANS_NUM" : 90460706,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "81",
+		"ARTIST_NAME" : "张叶蕾",
+		"ARTIST_BIRTHDAY" : "2010-11-02T16:35:45.000Z",
+		"ARTIST_INTRO" : "英国嘻哈歌手",
+		"ARTIST_GENRE" : "女",
+		"ARTIST_FANS_NUM" : 89583793,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "82",
+		"ARTIST_NAME" : "张学友",
+		"ARTIST_BIRTHDAY" : "1997-02-14T17:12:25.000Z",
+		"ARTIST_INTRO" : "欧美民谣歌手",
+		"ARTIST_GENRE" : "男",
+		"ARTIST_FANS_NUM" : 23645395,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "83",
+		"ARTIST_NAME" : "张惠妹",
+		"ARTIST_BIRTHDAY" : "1992-02-04T09:53:05.000Z",
+		"ARTIST_INTRO" : "韩国拉丁歌手",
+		"ARTIST_GENRE" : "男",
+		"ARTIST_FANS_NUM" : 78239647,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "84",
+		"ARTIST_NAME" : "张杰",
+		"ARTIST_BIRTHDAY" : "1988-12-07T12:08:41.000Z",
+		"ARTIST_INTRO" : "日本嘻哈歌手",
+		"ARTIST_GENRE" : "男",
+		"ARTIST_FANS_NUM" : 51284708,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "85",
+		"ARTIST_NAME" : "张碧晨",
+		"ARTIST_BIRTHDAY" : "2000-03-24T03:28:31.000Z",
+		"ARTIST_INTRO" : "英国摇滚歌手",
+		"ARTIST_GENRE" : "男",
+		"ARTIST_FANS_NUM" : 40473044,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "86",
+		"ARTIST_NAME" : "张震岳",
+		"ARTIST_BIRTHDAY" : "1985-08-10T21:39:00.000Z",
+		"ARTIST_INTRO" : "美国乡村歌手",
+		"ARTIST_GENRE" : "男",
+		"ARTIST_FANS_NUM" : 5911595,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "87",
+		"ARTIST_NAME" : "张靓颖",
+		"ARTIST_BIRTHDAY" : "1996-07-05T05:40:58.000Z",
+		"ARTIST_INTRO" : "华语嘻哈歌手",
+		"ARTIST_GENRE" : "男",
+		"ARTIST_FANS_NUM" : 44610680,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "88",
+		"ARTIST_NAME" : "张韶涵",
+		"ARTIST_BIRTHDAY" : "2006-06-23T03:46:29.000Z",
+		"ARTIST_INTRO" : "华语嘻哈歌手",
+		"ARTIST_GENRE" : "男",
+		"ARTIST_FANS_NUM" : 42757966,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "89",
+		"ARTIST_NAME" : "弦子",
+		"ARTIST_BIRTHDAY" : "1996-03-22T07:06:44.000Z",
+		"ARTIST_INTRO" : "韩国古典歌手",
+		"ARTIST_GENRE" : "男",
+		"ARTIST_FANS_NUM" : 21873091,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "90",
+		"ARTIST_NAME" : "徐佳莹",
+		"ARTIST_BIRTHDAY" : "1998-05-24T07:05:44.000Z",
+		"ARTIST_INTRO" : "日本乡村歌手",
+		"ARTIST_GENRE" : "女",
+		"ARTIST_FANS_NUM" : 36741145,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "91",
+		"ARTIST_NAME" : "怪阿姨",
+		"ARTIST_BIRTHDAY" : "2003-08-19T06:18:27.000Z",
+		"ARTIST_INTRO" : "美国爵士歌手",
+		"ARTIST_GENRE" : "男",
+		"ARTIST_FANS_NUM" : 82576544,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "92",
+		"ARTIST_NAME" : "扬布拉德",
+		"ARTIST_BIRTHDAY" : "1994-06-17T04:17:20.000Z",
+		"ARTIST_INTRO" : "美国爵士歌手",
+		"ARTIST_GENRE" : "男",
+		"ARTIST_FANS_NUM" : 16634425,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "93",
+		"ARTIST_NAME" : "新秀",
+		"ARTIST_BIRTHDAY" : "2001-03-26T04:30:28.000Z",
+		"ARTIST_INTRO" : "华语拉丁歌手",
+		"ARTIST_GENRE" : "男",
+		"ARTIST_FANS_NUM" : 30567650,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "94",
+		"ARTIST_NAME" : "方大同",
+		"ARTIST_BIRTHDAY" : "1999-10-23T17:06:53.000Z",
+		"ARTIST_INTRO" : "日本流行歌手",
+		"ARTIST_GENRE" : "女",
+		"ARTIST_FANS_NUM" : 19038611,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "95",
+		"ARTIST_NAME" : "暗杠",
+		"ARTIST_BIRTHDAY" : "1985-12-18T07:10:50.000Z",
+		"ARTIST_INTRO" : "日本古典歌手",
+		"ARTIST_GENRE" : "男",
+		"ARTIST_FANS_NUM" : 94008388,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "96",
+		"ARTIST_NAME" : "曲婉婷",
+		"ARTIST_BIRTHDAY" : "1994-06-21T11:53:43.000Z",
+		"ARTIST_INTRO" : "日本乡村歌手",
+		"ARTIST_GENRE" : "男",
+		"ARTIST_FANS_NUM" : 18154109,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "97",
+		"ARTIST_NAME" : "曾舜晞",
+		"ARTIST_BIRTHDAY" : "1993-12-21T19:01:43.000Z",
+		"ARTIST_INTRO" : "华语舞曲歌手",
+		"ARTIST_GENRE" : "男",
+		"ARTIST_FANS_NUM" : 75067999,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "98",
+		"ARTIST_NAME" : "朴树",
+		"ARTIST_BIRTHDAY" : "1987-09-20T12:48:24.000Z",
+		"ARTIST_INTRO" : "日本舞曲歌手",
+		"ARTIST_GENRE" : "男",
+		"ARTIST_FANS_NUM" : 36098666,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "99",
+		"ARTIST_NAME" : "李荣浩",
+		"ARTIST_BIRTHDAY" : "2007-12-20T16:12:29.000Z",
+		"ARTIST_INTRO" : "美国新世纪歌手",
+		"ARTIST_GENRE" : "男",
+		"ARTIST_FANS_NUM" : 24943827,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "100",
+		"ARTIST_NAME" : "杜宣达",
+		"ARTIST_BIRTHDAY" : "1998-06-03T07:16:46.000Z",
+		"ARTIST_INTRO" : "欧美舞曲歌手",
+		"ARTIST_GENRE" : "男",
+		"ARTIST_FANS_NUM" : 45151218,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "101",
+		"ARTIST_NAME" : "杨坤",
+		"ARTIST_BIRTHDAY" : "1982-06-16T06:35:28.000Z",
+		"ARTIST_INTRO" : "日本新世纪歌手",
+		"ARTIST_GENRE" : "女",
+		"ARTIST_FANS_NUM" : 26777650,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "102",
+		"ARTIST_NAME" : "杨宗纬",
+		"ARTIST_BIRTHDAY" : "1998-05-12T15:10:07.000Z",
+		"ARTIST_INTRO" : "华语古典歌手",
+		"ARTIST_GENRE" : "男",
+		"ARTIST_FANS_NUM" : 20895730,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "103",
+		"ARTIST_NAME" : "林俊杰",
+		"ARTIST_BIRTHDAY" : "1996-05-12T19:22:47.000Z",
+		"ARTIST_INTRO" : "韩国乡村歌手",
+		"ARTIST_GENRE" : "女",
+		"ARTIST_FANS_NUM" : 11122577,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "104",
+		"ARTIST_NAME" : "林达浪",
+		"ARTIST_BIRTHDAY" : "1998-06-27T21:46:51.000Z",
+		"ARTIST_INTRO" : "华语流行歌手",
+		"ARTIST_GENRE" : "女",
+		"ARTIST_FANS_NUM" : 46388651,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "105",
+		"ARTIST_NAME" : "果妹",
+		"ARTIST_BIRTHDAY" : "2009-12-16T07:26:15.000Z",
+		"ARTIST_INTRO" : "韩国流行歌手",
+		"ARTIST_GENRE" : "男",
+		"ARTIST_FANS_NUM" : 52560156,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "106",
+		"ARTIST_NAME" : "梁咏琪",
+		"ARTIST_BIRTHDAY" : "1988-03-04T07:36:44.000Z",
+		"ARTIST_INTRO" : "欧美爵士歌手",
+		"ARTIST_GENRE" : "男",
+		"ARTIST_FANS_NUM" : 5449217,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "107",
+		"ARTIST_NAME" : "毛不易",
+		"ARTIST_BIRTHDAY" : "1980-11-01T12:26:07.000Z",
+		"ARTIST_INTRO" : "美国流行歌手",
+		"ARTIST_GENRE" : "女",
+		"ARTIST_FANS_NUM" : 30244329,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "108",
+		"ARTIST_NAME" : "汪苏泷",
+		"ARTIST_BIRTHDAY" : "2006-08-02T21:39:46.000Z",
+		"ARTIST_INTRO" : "美国电子歌手",
+		"ARTIST_GENRE" : "女",
+		"ARTIST_FANS_NUM" : 81687638,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "109",
+		"ARTIST_NAME" : "沈以诚",
+		"ARTIST_BIRTHDAY" : "2010-07-29T08:18:44.000Z",
+		"ARTIST_INTRO" : "韩国嘻哈歌手",
+		"ARTIST_GENRE" : "女",
+		"ARTIST_FANS_NUM" : 88527209,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "110",
+		"ARTIST_NAME" : "沐泽",
+		"ARTIST_BIRTHDAY" : "1998-09-12T01:51:29.000Z",
+		"ARTIST_INTRO" : "华语新世纪歌手",
+		"ARTIST_GENRE" : "女",
+		"ARTIST_FANS_NUM" : 33896680,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "111",
+		"ARTIST_NAME" : "沧桑Cang333",
+		"ARTIST_BIRTHDAY" : "1991-10-20T21:56:18.000Z",
+		"ARTIST_INTRO" : "美国摇滚歌手",
+		"ARTIST_GENRE" : "女",
+		"ARTIST_FANS_NUM" : 59559294,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "112",
+		"ARTIST_NAME" : "法老",
+		"ARTIST_BIRTHDAY" : "1995-08-11T03:10:23.000Z",
+		"ARTIST_INTRO" : "华语另类歌手",
+		"ARTIST_GENRE" : "男",
+		"ARTIST_FANS_NUM" : 52282255,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "113",
+		"ARTIST_NAME" : "海洋Bo",
+		"ARTIST_BIRTHDAY" : "2010-06-24T02:44:47.000Z",
+		"ARTIST_INTRO" : "韩国拉丁歌手",
+		"ARTIST_GENRE" : "女",
+		"ARTIST_FANS_NUM" : 18122819,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "114",
+		"ARTIST_NAME" : "满舒克",
+		"ARTIST_BIRTHDAY" : "1996-03-12T10:29:03.000Z",
+		"ARTIST_INTRO" : "美国拉丁歌手",
+		"ARTIST_GENRE" : "男",
+		"ARTIST_FANS_NUM" : 24116224,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "115",
+		"ARTIST_NAME" : "王OK",
+		"ARTIST_BIRTHDAY" : "1983-09-28T21:04:23.000Z",
+		"ARTIST_INTRO" : "日本拉丁歌手",
+		"ARTIST_GENRE" : "男",
+		"ARTIST_FANS_NUM" : 13485565,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "116",
+		"ARTIST_NAME" : "王以太",
+		"ARTIST_BIRTHDAY" : "1980-03-09T12:32:07.000Z",
+		"ARTIST_INTRO" : "韩国拉丁歌手",
+		"ARTIST_GENRE" : "女",
+		"ARTIST_FANS_NUM" : 94255480,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "117",
+		"ARTIST_NAME" : "王力宏",
+		"ARTIST_BIRTHDAY" : "1994-04-26T02:53:36.000Z",
+		"ARTIST_INTRO" : "英国嘻哈歌手",
+		"ARTIST_GENRE" : "男",
+		"ARTIST_FANS_NUM" : 98391257,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "118",
+		"ARTIST_NAME" : "王唯旖",
+		"ARTIST_BIRTHDAY" : "1985-06-16T06:06:58.000Z",
+		"ARTIST_INTRO" : "欧美拉丁歌手",
+		"ARTIST_GENRE" : "男",
+		"ARTIST_FANS_NUM" : 75300323,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "119",
+		"ARTIST_NAME" : "王宇宙Leto",
+		"ARTIST_BIRTHDAY" : "1987-02-05T12:24:18.000Z",
+		"ARTIST_INTRO" : "华语流行歌手",
+		"ARTIST_GENRE" : "男",
+		"ARTIST_FANS_NUM" : 80799326,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "120",
+		"ARTIST_NAME" : "王菲",
+		"ARTIST_BIRTHDAY" : "1985-05-24T20:55:57.000Z",
+		"ARTIST_INTRO" : "欧美R&B歌手",
+		"ARTIST_GENRE" : "男",
+		"ARTIST_FANS_NUM" : 30628733,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "121",
+		"ARTIST_NAME" : "王贰浪",
+		"ARTIST_BIRTHDAY" : "1993-07-14T16:29:10.000Z",
+		"ARTIST_INTRO" : "华语舞曲歌手",
+		"ARTIST_GENRE" : "女",
+		"ARTIST_FANS_NUM" : 40733157,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "122",
+		"ARTIST_NAME" : "王赫野",
+		"ARTIST_BIRTHDAY" : "1996-04-19T08:40:56.000Z",
+		"ARTIST_INTRO" : "日本电子歌手",
+		"ARTIST_GENRE" : "女",
+		"ARTIST_FANS_NUM" : 39757164,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "123",
+		"ARTIST_NAME" : "福禄寿FloruitShow",
+		"ARTIST_BIRTHDAY" : "1991-11-08T06:58:18.000Z",
+		"ARTIST_INTRO" : "欧美舞曲歌手",
+		"ARTIST_GENRE" : "男",
+		"ARTIST_FANS_NUM" : 80278373,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "124",
+		"ARTIST_NAME" : "缘为冰",
+		"ARTIST_BIRTHDAY" : "1986-11-25T00:09:26.000Z",
+		"ARTIST_INTRO" : "日本拉丁歌手",
+		"ARTIST_GENRE" : "男",
+		"ARTIST_FANS_NUM" : 58738009,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "125",
+		"ARTIST_NAME" : "罗言",
+		"ARTIST_BIRTHDAY" : "1987-04-21T05:44:31.000Z",
+		"ARTIST_INTRO" : "韩国古典歌手",
+		"ARTIST_GENRE" : "男",
+		"ARTIST_FANS_NUM" : 68099318,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "126",
+		"ARTIST_NAME" : "老狼",
+		"ARTIST_BIRTHDAY" : "2002-10-11T01:47:47.000Z",
+		"ARTIST_INTRO" : "欧美摇滚歌手",
+		"ARTIST_GENRE" : "女",
+		"ARTIST_FANS_NUM" : 13189721,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "127",
+		"ARTIST_NAME" : "胡海泉",
+		"ARTIST_BIRTHDAY" : "1985-11-27T12:29:57.000Z",
+		"ARTIST_INTRO" : "日本舞曲歌手",
+		"ARTIST_GENRE" : "男",
+		"ARTIST_FANS_NUM" : 81630112,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "128",
+		"ARTIST_NAME" : "艾热 AIR",
+		"ARTIST_BIRTHDAY" : "1999-02-03T18:23:13.000Z",
+		"ARTIST_INTRO" : "日本舞曲歌手",
+		"ARTIST_GENRE" : "男",
+		"ARTIST_FANS_NUM" : 99843596,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "129",
+		"ARTIST_NAME" : "花粥",
+		"ARTIST_BIRTHDAY" : "1982-06-18T10:29:34.000Z",
+		"ARTIST_INTRO" : "欧美舞曲歌手",
+		"ARTIST_GENRE" : "女",
+		"ARTIST_FANS_NUM" : 826368,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "130",
+		"ARTIST_NAME" : "莫文蔚",
+		"ARTIST_BIRTHDAY" : "1984-07-14T05:07:42.000Z",
+		"ARTIST_INTRO" : "英国新世纪歌手",
+		"ARTIST_GENRE" : "女",
+		"ARTIST_FANS_NUM" : 6357709,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "131",
+		"ARTIST_NAME" : "菲道尔",
+		"ARTIST_BIRTHDAY" : "1980-09-09T03:24:48.000Z",
+		"ARTIST_INTRO" : "英国另类歌手",
+		"ARTIST_GENRE" : "女",
+		"ARTIST_FANS_NUM" : 29775392,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "134",
+		"ARTIST_NAME" : "蔡依林",
+		"ARTIST_BIRTHDAY" : "2002-05-27T16:25:33.000Z",
+		"ARTIST_INTRO" : "欧美拉丁歌手",
+		"ARTIST_GENRE" : "男",
+		"ARTIST_FANS_NUM" : 64750150,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "135",
+		"ARTIST_NAME" : "蔡健雅",
+		"ARTIST_BIRTHDAY" : "2003-07-11T11:28:15.000Z",
+		"ARTIST_INTRO" : "华语民谣歌手",
+		"ARTIST_GENRE" : "女",
+		"ARTIST_FANS_NUM" : 18674064,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "136",
+		"ARTIST_NAME" : "薛之谦",
+		"ARTIST_BIRTHDAY" : "1998-12-13T01:04:34.000Z",
+		"ARTIST_INTRO" : "韩国金属歌手",
+		"ARTIST_GENRE" : "女",
+		"ARTIST_FANS_NUM" : 79279961,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "137",
+		"ARTIST_NAME" : "袁娅维TIA RAY",
+		"ARTIST_BIRTHDAY" : "2003-06-18T11:41:35.000Z",
+		"ARTIST_INTRO" : "华语R&B歌手",
+		"ARTIST_GENRE" : "男",
+		"ARTIST_FANS_NUM" : 11339090,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "138",
+		"ARTIST_NAME" : "许嵩",
+		"ARTIST_BIRTHDAY" : "1995-05-18T05:39:54.000Z",
+		"ARTIST_INTRO" : "韩国拉丁歌手",
+		"ARTIST_GENRE" : "女",
+		"ARTIST_FANS_NUM" : 12533148,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "139",
+		"ARTIST_NAME" : "谭咏麟",
+		"ARTIST_BIRTHDAY" : "2003-04-13T06:13:57.000Z",
+		"ARTIST_INTRO" : "英国拉丁歌手",
+		"ARTIST_GENRE" : "女",
+		"ARTIST_FANS_NUM" : 49308161,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "140",
+		"ARTIST_NAME" : "谭维维",
+		"ARTIST_BIRTHDAY" : "2006-08-30T00:27:46.000Z",
+		"ARTIST_INTRO" : "欧美摇滚歌手",
+		"ARTIST_GENRE" : "男",
+		"ARTIST_FANS_NUM" : 2773943,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "141",
+		"ARTIST_NAME" : "赵雷",
+		"ARTIST_BIRTHDAY" : "1993-01-23T17:53:23.000Z",
+		"ARTIST_INTRO" : "欧美嘻哈歌手",
+		"ARTIST_GENRE" : "女",
+		"ARTIST_FANS_NUM" : 35416639,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "142",
+		"ARTIST_NAME" : "那奇沃夫",
+		"ARTIST_BIRTHDAY" : "1999-10-25T00:09:08.000Z",
+		"ARTIST_INTRO" : "日本金属歌手",
+		"ARTIST_GENRE" : "女",
+		"ARTIST_FANS_NUM" : 40367197,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "143",
+		"ARTIST_NAME" : "邵帅",
+		"ARTIST_BIRTHDAY" : "1994-03-20T06:47:51.000Z",
+		"ARTIST_INTRO" : "英国另类歌手",
+		"ARTIST_GENRE" : "男",
+		"ARTIST_FANS_NUM" : 98128010,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "144",
+		"ARTIST_NAME" : "郑润泽",
+		"ARTIST_BIRTHDAY" : "2007-09-25T01:07:57.000Z",
+		"ARTIST_INTRO" : "欧美乡村歌手",
+		"ARTIST_GENRE" : "男",
+		"ARTIST_FANS_NUM" : 11582575,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "145",
+		"ARTIST_NAME" : "郭采洁",
+		"ARTIST_BIRTHDAY" : "2000-03-13T05:38:54.000Z",
+		"ARTIST_INTRO" : "日本拉丁歌手",
+		"ARTIST_GENRE" : "女",
+		"ARTIST_FANS_NUM" : 38121946,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "146",
+		"ARTIST_NAME" : "郭顶",
+		"ARTIST_BIRTHDAY" : "2008-03-19T11:31:48.000Z",
+		"ARTIST_INTRO" : "韩国舞曲歌手",
+		"ARTIST_GENRE" : "女",
+		"ARTIST_FANS_NUM" : 35399938,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "147",
+		"ARTIST_NAME" : "金玟岐",
+		"ARTIST_BIRTHDAY" : "1990-01-24T14:08:22.000Z",
+		"ARTIST_INTRO" : "日本流行歌手",
+		"ARTIST_GENRE" : "男",
+		"ARTIST_FANS_NUM" : 50801425,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "148",
+		"ARTIST_NAME" : "银临",
+		"ARTIST_BIRTHDAY" : "2010-02-15T22:51:35.000Z",
+		"ARTIST_INTRO" : "美国R&B歌手",
+		"ARTIST_GENRE" : "女",
+		"ARTIST_FANS_NUM" : 80577673,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "149",
+		"ARTIST_NAME" : "闻人听書_",
+		"ARTIST_BIRTHDAY" : "1982-05-05T21:52:47.000Z",
+		"ARTIST_INTRO" : "美国金属歌手",
+		"ARTIST_GENRE" : "女",
+		"ARTIST_FANS_NUM" : 2524678,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "150",
+		"ARTIST_NAME" : "队长",
+		"ARTIST_BIRTHDAY" : "2003-06-05T19:37:49.000Z",
+		"ARTIST_INTRO" : "日本电子歌手",
+		"ARTIST_GENRE" : "女",
+		"ARTIST_FANS_NUM" : 82634336,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "151",
+		"ARTIST_NAME" : "阿YueYue",
+		"ARTIST_BIRTHDAY" : "1989-03-26T13:58:06.000Z",
+		"ARTIST_INTRO" : "欧美新世纪歌手",
+		"ARTIST_GENRE" : "男",
+		"ARTIST_FANS_NUM" : 70347925,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "152",
+		"ARTIST_NAME" : "阿冗",
+		"ARTIST_BIRTHDAY" : "2007-11-30T09:32:18.000Z",
+		"ARTIST_INTRO" : "英国爵士歌手",
+		"ARTIST_GENRE" : "男",
+		"ARTIST_FANS_NUM" : 23468415,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "153",
+		"ARTIST_NAME" : "阿梨粤",
+		"ARTIST_BIRTHDAY" : "2005-11-29T05:05:41.000Z",
+		"ARTIST_INTRO" : "日本舞曲歌手",
+		"ARTIST_GENRE" : "女",
+		"ARTIST_FANS_NUM" : 74757280,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "154",
+		"ARTIST_NAME" : "阿肆",
+		"ARTIST_BIRTHDAY" : "1999-05-11T14:54:04.000Z",
+		"ARTIST_INTRO" : "美国古典歌手",
+		"ARTIST_GENRE" : "男",
+		"ARTIST_FANS_NUM" : 14194644,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "155",
+		"ARTIST_NAME" : "陈奕迅",
+		"ARTIST_BIRTHDAY" : "2000-05-30T11:00:29.000Z",
+		"ARTIST_INTRO" : "英国金属歌手",
+		"ARTIST_GENRE" : "女",
+		"ARTIST_FANS_NUM" : 23833676,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "156",
+		"ARTIST_NAME" : "陈楚生",
+		"ARTIST_BIRTHDAY" : "1980-09-13T03:27:17.000Z",
+		"ARTIST_INTRO" : "美国拉丁歌手",
+		"ARTIST_GENRE" : "女",
+		"ARTIST_FANS_NUM" : 15389106,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "157",
+		"ARTIST_NAME" : "陈粒",
+		"ARTIST_BIRTHDAY" : "1997-05-11T21:12:30.000Z",
+		"ARTIST_INTRO" : "美国乡村歌手",
+		"ARTIST_GENRE" : "男",
+		"ARTIST_FANS_NUM" : 22212939,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "158",
+		"ARTIST_NAME" : "陶喆",
+		"ARTIST_BIRTHDAY" : "2010-02-17T09:38:41.000Z",
+		"ARTIST_INTRO" : "韩国舞曲歌手",
+		"ARTIST_GENRE" : "女",
+		"ARTIST_FANS_NUM" : 87540785,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "159",
+		"ARTIST_NAME" : "韦礼安",
+		"ARTIST_BIRTHDAY" : "1989-04-12T14:34:10.000Z",
+		"ARTIST_INTRO" : "韩国拉丁歌手",
+		"ARTIST_GENRE" : "女",
+		"ARTIST_FANS_NUM" : 27943532,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "160",
+		"ARTIST_NAME" : "音阙诗听",
+		"ARTIST_BIRTHDAY" : "1982-09-16T10:58:59.000Z",
+		"ARTIST_INTRO" : "华语金属歌手",
+		"ARTIST_GENRE" : "男",
+		"ARTIST_FANS_NUM" : 78653855,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "161",
+		"ARTIST_NAME" : "颜人中",
+		"ARTIST_BIRTHDAY" : "1995-12-23T17:59:06.000Z",
+		"ARTIST_INTRO" : "欧美舞曲歌手",
+		"ARTIST_GENRE" : "女",
+		"ARTIST_FANS_NUM" : 98009893,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "162",
+		"ARTIST_NAME" : "马思唯",
+		"ARTIST_BIRTHDAY" : "2008-06-25T00:19:43.000Z",
+		"ARTIST_INTRO" : "英国乡村歌手",
+		"ARTIST_GENRE" : "男",
+		"ARTIST_FANS_NUM" : 419497,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "163",
+		"ARTIST_NAME" : "黄丽玲",
+		"ARTIST_BIRTHDAY" : "2008-03-03T17:04:50.000Z",
+		"ARTIST_INTRO" : "韩国乡村歌手",
+		"ARTIST_GENRE" : "女",
+		"ARTIST_FANS_NUM" : 82103178,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "164",
+		"ARTIST_NAME" : "黄小琥",
+		"ARTIST_BIRTHDAY" : "2000-01-09T12:00:20.000Z",
+		"ARTIST_INTRO" : "美国拉丁歌手",
+		"ARTIST_GENRE" : "女",
+		"ARTIST_FANS_NUM" : 39379906,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "132",
+		"ARTIST_NAME" : "葛东琪",
+		"ARTIST_BIRTHDAY" : "1989-04-21T23:38:34.000Z",
+		"ARTIST_INTRO" : "华语另类歌手",
+		"ARTIST_GENRE" : "女",
+		"ARTIST_FANS_NUM" : 32492553,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "133",
+		"ARTIST_NAME" : "蓝心羽",
+		"ARTIST_BIRTHDAY" : "1984-06-27T22:03:05.000Z",
+		"ARTIST_INTRO" : "韩国新世纪歌手",
+		"ARTIST_GENRE" : "男",
+		"ARTIST_FANS_NUM" : 14869345,
+		"USER_ID" : null
+	},
+	{
+		"ARTIST_ID" : "user001",
+		"ARTIST_NAME" : "康文杰",
+		"ARTIST_BIRTHDAY" : "2003-09-23T00:00:00.000Z",
+		"ARTIST_INTRO" : null,
+		"ARTIST_GENRE" : null,
+		"ARTIST_FANS_NUM" : null,
+		"USER_ID" : "001"
+	},
+	{
+		"ARTIST_ID" : "usera08b388aa7",
+		"ARTIST_NAME" : "LiuYiTong",
+		"ARTIST_BIRTHDAY" : null,
+		"ARTIST_INTRO" : null,
+		"ARTIST_GENRE" : null,
+		"ARTIST_FANS_NUM" : null,
+		"USER_ID" : "a08b388aa7"
+	},
+	{
+		"ARTIST_ID" : "user054c644b95",
+		"ARTIST_NAME" : "test",
+		"ARTIST_BIRTHDAY" : null,
+		"ARTIST_INTRO" : null,
+		"ARTIST_GENRE" : null,
+		"ARTIST_FANS_NUM" : null,
+		"USER_ID" : "054c644b95"
+	}
+]}

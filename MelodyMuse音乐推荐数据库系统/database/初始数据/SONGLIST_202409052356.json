@@ -1,0 +1,73 @@
+{
+"SONGLIST": [
+	{
+		"SONGLIST_ID" : "003",
+		"SONGLIST_NAME" : "string",
+		"SONGLIST_DATE" : "2024-08-25T16:00:00.000Z",
+		"SONGLIST_ISPUBLIC" : "1",
+		"USER_ID" : "606763ba65"
+	},
+	{
+		"SONGLIST_ID" : "0f6f17c88c",
+		"SONGLIST_NAME" : "轻音乐",
+		"SONGLIST_DATE" : "2024-08-26T10:20:45.000Z",
+		"SONGLIST_ISPUBLIC" : "0",
+		"USER_ID" : "001"
+	},
+	{
+		"SONGLIST_ID" : "603af1405c",
+		"SONGLIST_NAME" : "561561",
+		"SONGLIST_DATE" : "2024-08-29T08:46:15.000Z",
+		"SONGLIST_ISPUBLIC" : "0",
+		"USER_ID" : "9d8c2e5536"
+	},
+	{
+		"SONGLIST_ID" : "09324b02c2",
+		"SONGLIST_NAME" : "偶尔听",
+		"SONGLIST_DATE" : "2024-08-26T10:21:13.000Z",
+		"SONGLIST_ISPUBLIC" : "0",
+		"USER_ID" : "001"
+	},
+	{
+		"SONGLIST_ID" : "e2aab2a9f6",
+		"SONGLIST_NAME" : "651651",
+		"SONGLIST_DATE" : "2024-08-29T08:46:19.000Z",
+		"SONGLIST_ISPUBLIC" : "0",
+		"USER_ID" : "9d8c2e5536"
+	},
+	{
+		"SONGLIST_ID" : "6660c3dcab",
+		"SONGLIST_NAME" : "dsada",
+		"SONGLIST_DATE" : "2024-09-04T11:12:23.000Z",
+		"SONGLIST_ISPUBLIC" : "0",
+		"USER_ID" : "c8cee8ebdd"
+	},
+	{
+		"SONGLIST_ID" : "9d2afd2cde",
+		"SONGLIST_NAME" : "周三歌单",
+		"SONGLIST_DATE" : "2024-09-05T14:21:11.000Z",
+		"SONGLIST_ISPUBLIC" : "1",
+		"USER_ID" : "001"
+	},
+	{
+		"SONGLIST_ID" : "9e334bb824",
+		"SONGLIST_NAME" : "常听歌单",
+		"SONGLIST_DATE" : "2024-09-05T07:58:49.000Z",
+		"SONGLIST_ISPUBLIC" : "1",
+		"USER_ID" : "001"
+	},
+	{
+		"SONGLIST_ID" : "afbf7e129c",
+		"SONGLIST_NAME" : "周一歌单",
+		"SONGLIST_DATE" : "2024-09-05T14:11:26.000Z",
+		"SONGLIST_ISPUBLIC" : "1",
+		"USER_ID" : "001"
+	},
+	{
+		"SONGLIST_ID" : "80bfb7e40c",
+		"SONGLIST_NAME" : "周二歌单",
+		"SONGLIST_DATE" : "2024-09-05T14:17:37.000Z",
+		"SONGLIST_ISPUBLIC" : "1",
+		"USER_ID" : "001"
+	}
+]}

@@ -1,0 +1,35 @@
+{
+"USER_FOLLOW_ARTIST": [
+	{
+		"USER_ID" : "001",
+		"ARTIST_ID" : "103"
+	},
+	{
+		"USER_ID" : "001",
+		"ARTIST_ID" : "117"
+	},
+	{
+		"USER_ID" : "001",
+		"ARTIST_ID" : "13"
+	},
+	{
+		"USER_ID" : "001",
+		"ARTIST_ID" : "17"
+	},
+	{
+		"USER_ID" : "001",
+		"ARTIST_ID" : "69"
+	},
+	{
+		"USER_ID" : "001",
+		"ARTIST_ID" : "80"
+	},
+	{
+		"USER_ID" : "001",
+		"ARTIST_ID" : "95"
+	},
+	{
+		"USER_ID" : "c8cee8ebdd",
+		"ARTIST_ID" : "77"
+	}
+]}

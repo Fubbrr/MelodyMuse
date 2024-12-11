@@ -1,0 +1,168 @@
+{
+"USERS": [
+	{
+		"USER_ID" : "25129c9353",
+		"USER_NAME" : "k",
+		"PASSWORD" : "12",
+		"USER_EMAIL" : null,
+		"USER_PHONE" : "15096711602",
+		"USER_SEX" : null,
+		"USER_AGE" : null,
+		"USER_BIRTHDAY" : null,
+		"USER_STATUS" : null
+	},
+	{
+		"USER_ID" : "606763ba65",
+		"USER_NAME" : "kkk",
+		"PASSWORD" : "12345",
+		"USER_EMAIL" : null,
+		"USER_PHONE" : "13399316539",
+		"USER_SEX" : null,
+		"USER_AGE" : null,
+		"USER_BIRTHDAY" : null,
+		"USER_STATUS" : null
+	},
+	{
+		"USER_ID" : "9074832d7f",
+		"USER_NAME" : "www",
+		"PASSWORD" : "12345",
+		"USER_EMAIL" : null,
+		"USER_PHONE" : "19893118539",
+		"USER_SEX" : null,
+		"USER_AGE" : null,
+		"USER_BIRTHDAY" : null,
+		"USER_STATUS" : null
+	},
+	{
+		"USER_ID" : "0a0361835d",
+		"USER_NAME" : "Wesley",
+		"PASSWORD" : "123456",
+		"USER_EMAIL" : null,
+		"USER_PHONE" : "18847333257",
+		"USER_SEX" : null,
+		"USER_AGE" : null,
+		"USER_BIRTHDAY" : null,
+		"USER_STATUS" : null
+	},
+	{
+		"USER_ID" : "9d8c2e5536",
+		"USER_NAME" : "hyc",
+		"PASSWORD" : "1234",
+		"USER_EMAIL" : null,
+		"USER_PHONE" : "18889861402",
+		"USER_SEX" : null,
+		"USER_AGE" : null,
+		"USER_BIRTHDAY" : null,
+		"USER_STATUS" : null
+	},
+	{
+		"USER_ID" : "001",
+		"USER_NAME" : "康文杰",
+		"PASSWORD" : "5994471abb01112afcc18159f6cc74b4f511b99806da59b3caf5a9c173cacfc5",
+		"USER_EMAIL" : "kangwenjie666@qq.com",
+		"USER_PHONE" : "18298341681",
+		"USER_SEX" : "m",
+		"USER_AGE" : 20,
+		"USER_BIRTHDAY" : "2003-09-23T00:00:00.000Z",
+		"USER_STATUS" : "2"
+	},
+	{
+		"USER_ID" : "c8cee8ebdd",
+		"USER_NAME" : "hash",
+		"PASSWORD" : "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3",
+		"USER_EMAIL" : null,
+		"USER_PHONE" : "18888888888",
+		"USER_SEX" : null,
+		"USER_AGE" : null,
+		"USER_BIRTHDAY" : null,
+		"USER_STATUS" : "2"
+	},
+	{
+		"USER_ID" : "6375d6f897",
+		"USER_NAME" : "wy",
+		"PASSWORD" : "5994471abb01112afcc18159f6cc74b4f511b99806da59b3caf5a9c173cacfc5",
+		"USER_EMAIL" : null,
+		"USER_PHONE" : "13655598500",
+		"USER_SEX" : null,
+		"USER_AGE" : null,
+		"USER_BIRTHDAY" : null,
+		"USER_STATUS" : null
+	},
+	{
+		"USER_ID" : "bfb798b2c8",
+		"USER_NAME" : "111",
+		"PASSWORD" : "1234",
+		"USER_EMAIL" : null,
+		"USER_PHONE" : "15379072007",
+		"USER_SEX" : null,
+		"USER_AGE" : null,
+		"USER_BIRTHDAY" : null,
+		"USER_STATUS" : null
+	},
+	{
+		"USER_ID" : "4695794f8a",
+		"USER_NAME" : "181",
+		"PASSWORD" : "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+		"USER_EMAIL" : null,
+		"USER_PHONE" : "18193167361",
+		"USER_SEX" : null,
+		"USER_AGE" : null,
+		"USER_BIRTHDAY" : null,
+		"USER_STATUS" : null
+	},
+	{
+		"USER_ID" : "d3ac5e5910",
+		"USER_NAME" : "177",
+		"PASSWORD" : "77s",
+		"USER_EMAIL" : null,
+		"USER_PHONE" : "111111111",
+		"USER_SEX" : null,
+		"USER_AGE" : null,
+		"USER_BIRTHDAY" : null,
+		"USER_STATUS" : "1"
+	},
+	{
+		"USER_ID" : "af56d4bc4f",
+		"USER_NAME" : "123",
+		"PASSWORD" : "123",
+		"USER_EMAIL" : null,
+		"USER_PHONE" : null,
+		"USER_SEX" : null,
+		"USER_AGE" : null,
+		"USER_BIRTHDAY" : null,
+		"USER_STATUS" : "1"
+	},
+	{
+		"USER_ID" : "cff255b753",
+		"USER_NAME" : "321",
+		"PASSWORD" : "321",
+		"USER_EMAIL" : null,
+		"USER_PHONE" : null,
+		"USER_SEX" : null,
+		"USER_AGE" : null,
+		"USER_BIRTHDAY" : null,
+		"USER_STATUS" : null
+	},
+	{
+		"USER_ID" : "a08b388aa7",
+		"USER_NAME" : "LiuYiTong",
+		"PASSWORD" : "123456",
+		"USER_EMAIL" : null,
+		"USER_PHONE" : "15949769051",
+		"USER_SEX" : null,
+		"USER_AGE" : null,
+		"USER_BIRTHDAY" : null,
+		"USER_STATUS" : null
+	},
+	{
+		"USER_ID" : "054c644b95",
+		"USER_NAME" : "test",
+		"PASSWORD" : "2ce109e9d0faf820b2434e166297934e6177b65ab9951dbc3e204cad4689b39c",
+		"USER_EMAIL" : null,
+		"USER_PHONE" : "15314703752",
+		"USER_SEX" : null,
+		"USER_AGE" : null,
+		"USER_BIRTHDAY" : null,
+		"USER_STATUS" : null
+	}
+]}

@@ -1,0 +1,35 @@
+{
+"ARTIST_FAN_COUNT": [
+	{
+		"ARTIST_ID" : "13",
+		"FAN_COUNT" : 1
+	},
+	{
+		"ARTIST_ID" : "77",
+		"FAN_COUNT" : 1
+	},
+	{
+		"ARTIST_ID" : "95",
+		"FAN_COUNT" : 1
+	},
+	{
+		"ARTIST_ID" : "117",
+		"FAN_COUNT" : 1
+	},
+	{
+		"ARTIST_ID" : "17",
+		"FAN_COUNT" : 1
+	},
+	{
+		"ARTIST_ID" : "80",
+		"FAN_COUNT" : 1
+	},
+	{
+		"ARTIST_ID" : "103",
+		"FAN_COUNT" : 1
+	},
+	{
+		"ARTIST_ID" : "69",
+		"FAN_COUNT" : 1
+	}
+]}

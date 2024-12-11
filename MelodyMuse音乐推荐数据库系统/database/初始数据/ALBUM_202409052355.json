@@ -1,0 +1,1307 @@
+{
+"ALBUM": [
+	{
+		"ALBUM_ID" : "3689b676-9",
+		"ALBUM_NAME" : "杜宣达",
+		"ALBUM_RELEASEDATE" : "2002-09-12T19:47:21.000Z",
+		"ALBUM_COMPANY" : "蓝天乐律",
+		"ALBUM_PRODUCER" : "杜宣达",
+		"ARTIST_ID" : "100"
+	},
+	{
+		"ALBUM_ID" : "b1177870-8",
+		"ALBUM_NAME" : "Ed Sheeran",
+		"ALBUM_RELEASEDATE" : "1992-10-07T05:51:56.000Z",
+		"ALBUM_COMPANY" : "星辰乐律",
+		"ALBUM_PRODUCER" : "Ed Sheeran",
+		"ARTIST_ID" : "14"
+	},
+	{
+		"ALBUM_ID" : "c1053b41-6",
+		"ALBUM_NAME" : "王菲",
+		"ALBUM_RELEASEDATE" : "2004-03-18T12:46:02.000Z",
+		"ALBUM_COMPANY" : "星辰音乐出品",
+		"ALBUM_PRODUCER" : "王菲",
+		"ARTIST_ID" : "120"
+	},
+	{
+		"ALBUM_ID" : "86b161d7-1",
+		"ALBUM_NAME" : "金玟岐",
+		"ALBUM_RELEASEDATE" : "2024-04-28T01:19:33.000Z",
+		"ALBUM_COMPANY" : "绿洲音乐",
+		"ALBUM_PRODUCER" : "金玟岐",
+		"ARTIST_ID" : "147"
+	},
+	{
+		"ALBUM_ID" : "e26ea3c6-9",
+		"ALBUM_NAME" : "海洋Bo",
+		"ALBUM_RELEASEDATE" : "2008-07-24T05:46:44.000Z",
+		"ALBUM_COMPANY" : "银月乐律",
+		"ALBUM_PRODUCER" : "海洋Bo",
+		"ARTIST_ID" : "113"
+	},
+	{
+		"ALBUM_ID" : "e5aeb82d-9",
+		"ALBUM_NAME" : "JinJiBeWater_",
+		"ALBUM_RELEASEDATE" : "2017-05-12T19:23:07.000Z",
+		"ALBUM_COMPANY" : "创新音乐",
+		"ALBUM_PRODUCER" : "JinJiBeWater_",
+		"ARTIST_ID" : "20"
+	},
+	{
+		"ALBUM_ID" : "38c3d2d1-c",
+		"ALBUM_NAME" : "Bruno Mars",
+		"ALBUM_RELEASEDATE" : "2021-07-03T06:13:45.000Z",
+		"ALBUM_COMPANY" : "曙光音乐出品",
+		"ALBUM_PRODUCER" : "Bruno Mars",
+		"ARTIST_ID" : "7"
+	},
+	{
+		"ALBUM_ID" : "fb6491e1-b",
+		"ALBUM_NAME" : "满舒克",
+		"ALBUM_RELEASEDATE" : "1991-04-03T16:14:33.000Z",
+		"ALBUM_COMPANY" : "蓝天音乐出品",
+		"ALBUM_PRODUCER" : "满舒克",
+		"ARTIST_ID" : "114"
+	},
+	{
+		"ALBUM_ID" : "7c28a2f5-8",
+		"ALBUM_NAME" : "陶喆",
+		"ALBUM_RELEASEDATE" : "2022-06-26T07:16:54.000Z",
+		"ALBUM_COMPANY" : "山峰音乐发行",
+		"ALBUM_PRODUCER" : "陶喆",
+		"ARTIST_ID" : "158"
+	},
+	{
+		"ALBUM_ID" : "c72c621e-5",
+		"ALBUM_NAME" : "黄小琥",
+		"ALBUM_RELEASEDATE" : "1998-07-05T16:20:45.000Z",
+		"ALBUM_COMPANY" : "金辉悦听",
+		"ALBUM_PRODUCER" : "黄小琥",
+		"ARTIST_ID" : "164"
+	},
+	{
+		"ALBUM_ID" : "65389150-b",
+		"ALBUM_NAME" : "告五人",
+		"ALBUM_RELEASEDATE" : "2001-03-26T05:56:48.000Z",
+		"ALBUM_COMPANY" : "银月音乐传媒",
+		"ALBUM_PRODUCER" : "告五人",
+		"ARTIST_ID" : "62"
+	},
+	{
+		"ALBUM_ID" : "4962faa6-3",
+		"ALBUM_NAME" : "陈奕迅",
+		"ALBUM_RELEASEDATE" : "1994-07-01T23:24:43.000Z",
+		"ALBUM_COMPANY" : "创新音乐出品",
+		"ALBUM_PRODUCER" : "陈奕迅",
+		"ARTIST_ID" : "155"
+	},
+	{
+		"ALBUM_ID" : "d4359039-3",
+		"ALBUM_NAME" : "The Chainsmok",
+		"ALBUM_RELEASEDATE" : "2001-11-09T04:54:33.000Z",
+		"ALBUM_COMPANY" : "星辰音乐发行",
+		"ALBUM_PRODUCER" : "The Chainsmok",
+		"ARTIST_ID" : "36"
+	},
+	{
+		"ALBUM_ID" : "9a45408b-e",
+		"ALBUM_NAME" : "容祖儿",
+		"ALBUM_RELEASEDATE" : "2018-03-30T00:27:53.000Z",
+		"ALBUM_COMPANY" : "星辰音乐",
+		"ALBUM_PRODUCER" : "容祖儿",
+		"ARTIST_ID" : "75"
+	},
+	{
+		"ALBUM_ID" : "98373046-5",
+		"ALBUM_NAME" : "张惠妹",
+		"ALBUM_RELEASEDATE" : "2010-12-19T03:18:27.000Z",
+		"ALBUM_COMPANY" : "金辉乐律",
+		"ALBUM_PRODUCER" : "张惠妹",
+		"ARTIST_ID" : "83"
+	},
+	{
+		"ALBUM_ID" : "4cd1ada6-5",
+		"ALBUM_NAME" : "万能青年旅店",
+		"ALBUM_RELEASEDATE" : "1998-01-30T20:30:44.000Z",
+		"ALBUM_COMPANY" : "创新音乐传媒",
+		"ALBUM_PRODUCER" : "万能青年旅店",
+		"ARTIST_ID" : "44"
+	},
+	{
+		"ALBUM_ID" : "0ac9638f-9",
+		"ALBUM_NAME" : "艾热 AIR",
+		"ALBUM_RELEASEDATE" : "2002-12-13T11:27:58.000Z",
+		"ALBUM_COMPANY" : "创新音乐",
+		"ALBUM_PRODUCER" : "艾热 AIR",
+		"ARTIST_ID" : "128"
+	},
+	{
+		"ALBUM_ID" : "a4fe6831-9",
+		"ALBUM_NAME" : "尹昔眠",
+		"ALBUM_RELEASEDATE" : "2002-07-21T15:58:34.000Z",
+		"ALBUM_COMPANY" : "曙光音乐",
+		"ALBUM_PRODUCER" : "尹昔眠",
+		"ARTIST_ID" : "79"
+	},
+	{
+		"ALBUM_ID" : "8e8c07d2-2",
+		"ALBUM_NAME" : "许嵩",
+		"ALBUM_RELEASEDATE" : "2020-10-03T17:24:07.000Z",
+		"ALBUM_COMPANY" : "创新音乐出品",
+		"ALBUM_PRODUCER" : "许嵩",
+		"ARTIST_ID" : "138"
+	},
+	{
+		"ALBUM_ID" : "a4361074-1",
+		"ALBUM_NAME" : "The Weeknd",
+		"ALBUM_RELEASEDATE" : "1992-12-21T13:55:50.000Z",
+		"ALBUM_COMPANY" : "山峰乐律",
+		"ALBUM_PRODUCER" : "The Weeknd",
+		"ARTIST_ID" : "37"
+	},
+	{
+		"ALBUM_ID" : "ba101570-9",
+		"ALBUM_NAME" : "塞壬唱片-MSR",
+		"ALBUM_RELEASEDATE" : "1996-06-29T04:52:45.000Z",
+		"ALBUM_COMPANY" : "金辉乐律",
+		"ALBUM_PRODUCER" : "塞壬唱片-MSR",
+		"ARTIST_ID" : "68"
+	},
+	{
+		"ALBUM_ID" : "3a538f42-8",
+		"ALBUM_NAME" : "HOYO-MiX",
+		"ALBUM_RELEASEDATE" : "1994-08-17T08:51:00.000Z",
+		"ALBUM_COMPANY" : "绿洲音乐传媒",
+		"ALBUM_PRODUCER" : "HOYO-MiX",
+		"ARTIST_ID" : "19"
+	},
+	{
+		"ALBUM_ID" : "186759ae-9",
+		"ALBUM_NAME" : "周深",
+		"ALBUM_RELEASEDATE" : "1999-01-25T22:42:36.000Z",
+		"ALBUM_COMPANY" : "银月乐律",
+		"ALBUM_PRODUCER" : "周深",
+		"ARTIST_ID" : "65"
+	},
+	{
+		"ALBUM_ID" : "eafab6f6-8",
+		"ALBUM_NAME" : "杨坤",
+		"ALBUM_RELEASEDATE" : "1998-05-27T00:27:34.000Z",
+		"ALBUM_COMPANY" : "绿洲乐律",
+		"ALBUM_PRODUCER" : "杨坤",
+		"ARTIST_ID" : "101"
+	},
+	{
+		"ALBUM_ID" : "eb98cb52-7",
+		"ALBUM_NAME" : "福禄寿FloruitSho",
+		"ALBUM_RELEASEDATE" : "1992-03-07T07:02:26.000Z",
+		"ALBUM_COMPANY" : "蓝天音乐出品",
+		"ALBUM_PRODUCER" : "福禄寿FloruitSho",
+		"ARTIST_ID" : "123"
+	},
+	{
+		"ALBUM_ID" : "36afb4d1-d",
+		"ALBUM_NAME" : "Coldplay",
+		"ALBUM_RELEASEDATE" : "1996-10-08T07:53:12.000Z",
+		"ALBUM_COMPANY" : "星辰乐律",
+		"ALBUM_PRODUCER" : "Coldplay",
+		"ARTIST_ID" : "11"
+	},
+	{
+		"ALBUM_ID" : "7f83c2c1-4",
+		"ALBUM_NAME" : "方大同",
+		"ALBUM_RELEASEDATE" : "2004-04-05T09:16:32.000Z",
+		"ALBUM_COMPANY" : "星辰悦听",
+		"ALBUM_PRODUCER" : "方大同",
+		"ARTIST_ID" : "94"
+	},
+	{
+		"ALBUM_ID" : "f59a6dee-0",
+		"ALBUM_NAME" : "廖俊涛",
+		"ALBUM_RELEASEDATE" : "2022-07-17T20:14:13.000Z",
+		"ALBUM_COMPANY" : "海蓝乐律",
+		"ALBUM_PRODUCER" : "廖俊涛",
+		"ARTIST_ID" : "80"
+	},
+	{
+		"ALBUM_ID" : "d20bb749-7",
+		"ALBUM_NAME" : "Starling8",
+		"ALBUM_RELEASEDATE" : "1991-12-25T06:11:43.000Z",
+		"ALBUM_COMPANY" : "创新音乐出品",
+		"ALBUM_PRODUCER" : "Starling8",
+		"ARTIST_ID" : "33"
+	},
+	{
+		"ALBUM_ID" : "1c6f2774-b",
+		"ALBUM_NAME" : "赵雷",
+		"ALBUM_RELEASEDATE" : "1999-06-24T03:35:05.000Z",
+		"ALBUM_COMPANY" : "海蓝乐律",
+		"ALBUM_PRODUCER" : "赵雷",
+		"ARTIST_ID" : "141"
+	},
+	{
+		"ALBUM_ID" : "9b333536-b",
+		"ALBUM_NAME" : "张震岳",
+		"ALBUM_RELEASEDATE" : "2019-12-17T01:29:31.000Z",
+		"ALBUM_COMPANY" : "智慧音乐",
+		"ALBUM_PRODUCER" : "张震岳",
+		"ARTIST_ID" : "86"
+	},
+	{
+		"ALBUM_ID" : "fee45a91-e",
+		"ALBUM_NAME" : "LBI利比",
+		"ALBUM_RELEASEDATE" : "2005-03-15T00:22:02.000Z",
+		"ALBUM_COMPANY" : "山峰音乐出品",
+		"ALBUM_PRODUCER" : "LBI利比",
+		"ARTIST_ID" : "25"
+	},
+	{
+		"ALBUM_ID" : "18e937ac-6",
+		"ALBUM_NAME" : "曾舜晞",
+		"ALBUM_RELEASEDATE" : "2005-11-27T00:59:54.000Z",
+		"ALBUM_COMPANY" : "星辰悦听",
+		"ALBUM_PRODUCER" : "曾舜晞",
+		"ARTIST_ID" : "97"
+	},
+	{
+		"ALBUM_ID" : "aac9f077-3",
+		"ALBUM_NAME" : "夏日入侵企画",
+		"ALBUM_RELEASEDATE" : "2022-05-02T20:47:52.000Z",
+		"ALBUM_COMPANY" : "海蓝悦听",
+		"ALBUM_PRODUCER" : "夏日入侵企画",
+		"ARTIST_ID" : "69"
+	},
+	{
+		"ALBUM_ID" : "4788bd67-e",
+		"ALBUM_NAME" : "孙楠",
+		"ALBUM_RELEASEDATE" : "2013-04-10T01:45:05.000Z",
+		"ALBUM_COMPANY" : "金辉音乐发行",
+		"ALBUM_PRODUCER" : "孙楠",
+		"ARTIST_ID" : "71"
+	},
+	{
+		"ALBUM_ID" : "c8d004e9-4",
+		"ALBUM_NAME" : "五月天",
+		"ALBUM_RELEASEDATE" : "2007-02-25T02:28:19.000Z",
+		"ALBUM_COMPANY" : "绿洲悦听",
+		"ALBUM_PRODUCER" : "五月天",
+		"ARTIST_ID" : "47"
+	},
+	{
+		"ALBUM_ID" : "a6e859e9-3",
+		"ALBUM_NAME" : "h3R3",
+		"ALBUM_RELEASEDATE" : "2023-08-24T07:06:00.000Z",
+		"ALBUM_COMPANY" : "金辉悦听",
+		"ALBUM_PRODUCER" : "h3R3",
+		"ARTIST_ID" : "18"
+	},
+	{
+		"ALBUM_ID" : "739497f5-7",
+		"ALBUM_NAME" : "郭采洁",
+		"ALBUM_RELEASEDATE" : "2023-08-03T07:28:34.000Z",
+		"ALBUM_COMPANY" : "智慧乐律",
+		"ALBUM_PRODUCER" : "郭采洁",
+		"ARTIST_ID" : "145"
+	},
+	{
+		"ALBUM_ID" : "3bc0dadf-3",
+		"ALBUM_NAME" : "胡海泉",
+		"ALBUM_RELEASEDATE" : "1991-02-19T12:43:06.000Z",
+		"ALBUM_COMPANY" : "蓝天音乐传媒",
+		"ALBUM_PRODUCER" : "胡海泉",
+		"ARTIST_ID" : "127"
+	},
+	{
+		"ALBUM_ID" : "c7d3cc4a-a",
+		"ALBUM_NAME" : "傲七爷",
+		"ALBUM_RELEASEDATE" : "2008-05-18T13:54:57.000Z",
+		"ALBUM_COMPANY" : "曙光悦听",
+		"ALBUM_PRODUCER" : "傲七爷",
+		"ARTIST_ID" : "50"
+	},
+	{
+		"ALBUM_ID" : "9cec664c-1",
+		"ALBUM_NAME" : "银临",
+		"ALBUM_RELEASEDATE" : "2001-10-18T22:49:47.000Z",
+		"ALBUM_COMPANY" : "海蓝乐律",
+		"ALBUM_PRODUCER" : "银临",
+		"ARTIST_ID" : "148"
+	},
+	{
+		"ALBUM_ID" : "ae0ae466-6",
+		"ALBUM_NAME" : "莫文蔚",
+		"ALBUM_RELEASEDATE" : "2010-01-07T12:21:42.000Z",
+		"ALBUM_COMPANY" : "银月悦听",
+		"ALBUM_PRODUCER" : "莫文蔚",
+		"ARTIST_ID" : "130"
+	},
+	{
+		"ALBUM_ID" : "acea1ee4-4",
+		"ALBUM_NAME" : "沧桑Cang333",
+		"ALBUM_RELEASEDATE" : "2007-05-24T05:25:04.000Z",
+		"ALBUM_COMPANY" : "创新乐律",
+		"ALBUM_PRODUCER" : "沧桑Cang333",
+		"ARTIST_ID" : "111"
+	},
+	{
+		"ALBUM_ID" : "fd88e5e9-1",
+		"ALBUM_NAME" : "花粥",
+		"ALBUM_RELEASEDATE" : "1990-08-06T03:11:13.000Z",
+		"ALBUM_COMPANY" : "星辰音乐出品",
+		"ALBUM_PRODUCER" : "花粥",
+		"ARTIST_ID" : "129"
+	},
+	{
+		"ALBUM_ID" : "6607d43b-d",
+		"ALBUM_NAME" : "罗言",
+		"ALBUM_RELEASEDATE" : "2013-07-20T20:40:52.000Z",
+		"ALBUM_COMPANY" : "星辰乐律",
+		"ALBUM_PRODUCER" : "罗言",
+		"ARTIST_ID" : "125"
+	},
+	{
+		"ALBUM_ID" : "cb7a166f-2",
+		"ALBUM_NAME" : "朴树",
+		"ALBUM_RELEASEDATE" : "2023-01-18T21:50:09.000Z",
+		"ALBUM_COMPANY" : "金辉音乐出品",
+		"ALBUM_PRODUCER" : "朴树",
+		"ARTIST_ID" : "98"
+	},
+	{
+		"ALBUM_ID" : "8d9e1049-7",
+		"ALBUM_NAME" : "法老",
+		"ALBUM_RELEASEDATE" : "2018-08-07T19:55:11.000Z",
+		"ALBUM_COMPANY" : "山峰音乐发行",
+		"ALBUM_PRODUCER" : "法老",
+		"ARTIST_ID" : "112"
+	},
+	{
+		"ALBUM_ID" : "250270b0-5",
+		"ALBUM_NAME" : "展示上传专辑",
+		"ALBUM_RELEASEDATE" : "2024-09-03T16:00:00.000Z",
+		"ALBUM_COMPANY" : "展示",
+		"ALBUM_PRODUCER" : "展示",
+		"ARTIST_ID" : "2"
+	},
+	{
+		"ALBUM_ID" : "5801e787-e",
+		"ALBUM_NAME" : "陈楚生",
+		"ALBUM_RELEASEDATE" : "2013-04-23T18:48:38.000Z",
+		"ALBUM_COMPANY" : "曙光悦听",
+		"ALBUM_PRODUCER" : "陈楚生",
+		"ARTIST_ID" : "156"
+	},
+	{
+		"ALBUM_ID" : "8d79a889-9",
+		"ALBUM_NAME" : "音阙诗听",
+		"ALBUM_RELEASEDATE" : "2020-10-13T07:55:58.000Z",
+		"ALBUM_COMPANY" : "蓝天音乐发行",
+		"ALBUM_PRODUCER" : "音阙诗听",
+		"ARTIST_ID" : "160"
+	},
+	{
+		"ALBUM_ID" : "d82f4ba3-9",
+		"ALBUM_NAME" : "葛东琪",
+		"ALBUM_RELEASEDATE" : "2023-12-20T04:48:40.000Z",
+		"ALBUM_COMPANY" : "海蓝音乐传媒",
+		"ALBUM_PRODUCER" : "葛东琪",
+		"ARTIST_ID" : "132"
+	},
+	{
+		"ALBUM_ID" : "5f8f01fa-6",
+		"ALBUM_NAME" : "薛之谦",
+		"ALBUM_RELEASEDATE" : "2021-06-17T15:00:48.000Z",
+		"ALBUM_COMPANY" : "曙光乐律",
+		"ALBUM_PRODUCER" : "薛之谦",
+		"ARTIST_ID" : "136"
+	},
+	{
+		"ALBUM_ID" : "79432ce0-5",
+		"ALBUM_NAME" : "周杰伦",
+		"ALBUM_RELEASEDATE" : "2007-07-12T03:07:44.000Z",
+		"ALBUM_COMPANY" : "创新音乐发行",
+		"ALBUM_PRODUCER" : "周杰伦",
+		"ARTIST_ID" : "64"
+	},
+	{
+		"ALBUM_ID" : "ec91ed78-a",
+		"ALBUM_NAME" : "周公",
+		"ALBUM_RELEASEDATE" : "2005-11-22T20:51:34.000Z",
+		"ALBUM_COMPANY" : "银月音乐发行",
+		"ALBUM_PRODUCER" : "周公",
+		"ARTIST_ID" : "63"
+	},
+	{
+		"ALBUM_ID" : "42eacc82-d",
+		"ALBUM_NAME" : "Olly Murs",
+		"ALBUM_RELEASEDATE" : "1996-04-17T09:06:21.000Z",
+		"ALBUM_COMPANY" : "星辰乐律",
+		"ALBUM_PRODUCER" : "Olly Murs",
+		"ARTIST_ID" : "30"
+	},
+	{
+		"ALBUM_ID" : "51fdc5d6-a",
+		"ALBUM_NAME" : "张叶蕾",
+		"ALBUM_RELEASEDATE" : "1998-11-19T09:39:48.000Z",
+		"ALBUM_COMPANY" : "智慧悦听",
+		"ALBUM_PRODUCER" : "张叶蕾",
+		"ARTIST_ID" : "81"
+	},
+	{
+		"ALBUM_ID" : "5a04a7eb-b",
+		"ALBUM_NAME" : "沈以诚",
+		"ALBUM_RELEASEDATE" : "1998-06-27T13:18:54.000Z",
+		"ALBUM_COMPANY" : "山峰音乐发行",
+		"ALBUM_PRODUCER" : "沈以诚",
+		"ARTIST_ID" : "109"
+	},
+	{
+		"ALBUM_ID" : "c2d2ff3c-0",
+		"ALBUM_NAME" : "李荣浩",
+		"ALBUM_RELEASEDATE" : "1999-04-12T04:01:58.000Z",
+		"ALBUM_COMPANY" : "山峰音乐发行",
+		"ALBUM_PRODUCER" : "李荣浩",
+		"ARTIST_ID" : "99"
+	},
+	{
+		"ALBUM_ID" : "c9e4fda6-1",
+		"ALBUM_NAME" : "蓝心羽",
+		"ALBUM_RELEASEDATE" : "1991-01-08T13:10:55.000Z",
+		"ALBUM_COMPANY" : "星辰音乐传媒",
+		"ALBUM_PRODUCER" : "蓝心羽",
+		"ARTIST_ID" : "133"
+	},
+	{
+		"ALBUM_ID" : "dc39bad5-3",
+		"ALBUM_NAME" : "陈粒",
+		"ALBUM_RELEASEDATE" : "2011-03-16T02:46:59.000Z",
+		"ALBUM_COMPANY" : "创新音乐传媒",
+		"ALBUM_PRODUCER" : "陈粒",
+		"ARTIST_ID" : "157"
+	},
+	{
+		"ALBUM_ID" : "0cbf69b0-9",
+		"ALBUM_NAME" : "王唯旖",
+		"ALBUM_RELEASEDATE" : "2019-08-23T16:38:15.000Z",
+		"ALBUM_COMPANY" : "曙光音乐发行",
+		"ALBUM_PRODUCER" : "王唯旖",
+		"ARTIST_ID" : "118"
+	},
+	{
+		"ALBUM_ID" : "976cccfe-c",
+		"ALBUM_NAME" : "司南",
+		"ALBUM_RELEASEDATE" : "2017-03-06T17:41:47.000Z",
+		"ALBUM_COMPANY" : "曙光乐律",
+		"ALBUM_PRODUCER" : "司南",
+		"ARTIST_ID" : "59"
+	},
+	{
+		"ALBUM_ID" : "e0e4d379-8",
+		"ALBUM_NAME" : "林俊杰",
+		"ALBUM_RELEASEDATE" : "2004-08-14T21:22:07.000Z",
+		"ALBUM_COMPANY" : "蓝天音乐",
+		"ALBUM_PRODUCER" : "林俊杰",
+		"ARTIST_ID" : "103"
+	},
+	{
+		"ALBUM_ID" : "41a5f522-8",
+		"ALBUM_NAME" : "宝石Gem",
+		"ALBUM_RELEASEDATE" : "2005-08-13T06:26:02.000Z",
+		"ALBUM_COMPANY" : "海蓝音乐传媒",
+		"ALBUM_PRODUCER" : "宝石Gem",
+		"ARTIST_ID" : "74"
+	},
+	{
+		"ALBUM_ID" : "028e9a2d-6",
+		"ALBUM_NAME" : "老狼",
+		"ALBUM_RELEASEDATE" : "2018-06-20T04:29:46.000Z",
+		"ALBUM_COMPANY" : "星辰音乐出品",
+		"ALBUM_PRODUCER" : "老狼",
+		"ARTIST_ID" : "126"
+	},
+	{
+		"ALBUM_ID" : "120c9d90-c",
+		"ALBUM_NAME" : "刘兆宇",
+		"ALBUM_RELEASEDATE" : "2009-09-17T14:38:39.000Z",
+		"ALBUM_COMPANY" : "星辰音乐",
+		"ALBUM_PRODUCER" : "刘兆宇",
+		"ARTIST_ID" : "52"
+	},
+	{
+		"ALBUM_ID" : "f5a83688-c",
+		"ALBUM_NAME" : "任然",
+		"ALBUM_RELEASEDATE" : "2004-04-25T20:03:44.000Z",
+		"ALBUM_COMPANY" : "金辉音乐出品",
+		"ALBUM_PRODUCER" : "任然",
+		"ARTIST_ID" : "48"
+	},
+	{
+		"ALBUM_ID" : "67fecb5a-4",
+		"ALBUM_NAME" : "Aioz",
+		"ALBUM_RELEASEDATE" : "2020-03-21T05:30:24.000Z",
+		"ALBUM_COMPANY" : "绿洲音乐",
+		"ALBUM_PRODUCER" : "Aioz",
+		"ARTIST_ID" : "3"
+	},
+	{
+		"ALBUM_ID" : "9fe704c7-6",
+		"ALBUM_NAME" : "郭顶",
+		"ALBUM_RELEASEDATE" : "2013-11-19T08:53:59.000Z",
+		"ALBUM_COMPANY" : "山峰悦听",
+		"ALBUM_PRODUCER" : "郭顶",
+		"ARTIST_ID" : "146"
+	},
+	{
+		"ALBUM_ID" : "7212ed19-e",
+		"ALBUM_NAME" : "Zy",
+		"ALBUM_RELEASEDATE" : "2010-05-29T15:40:04.000Z",
+		"ALBUM_COMPANY" : "海蓝乐律",
+		"ALBUM_PRODUCER" : "Zy",
+		"ARTIST_ID" : "43"
+	},
+	{
+		"ALBUM_ID" : "101dacb3-7",
+		"ALBUM_NAME" : "吴炳文",
+		"ALBUM_RELEASEDATE" : "1991-08-27T01:58:15.000Z",
+		"ALBUM_COMPANY" : "银月音乐发行",
+		"ALBUM_PRODUCER" : "吴炳文",
+		"ARTIST_ID" : "60"
+	},
+	{
+		"ALBUM_ID" : "f2fe81fc-e",
+		"ALBUM_NAME" : "阿冗",
+		"ALBUM_RELEASEDATE" : "2013-05-13T01:21:56.000Z",
+		"ALBUM_COMPANY" : "创新乐律",
+		"ALBUM_PRODUCER" : "阿冗",
+		"ARTIST_ID" : "152"
+	},
+	{
+		"ALBUM_ID" : "8adfa2de-0",
+		"ALBUM_NAME" : "DJ阿智",
+		"ALBUM_RELEASEDATE" : "2004-10-04T23:53:49.000Z",
+		"ALBUM_COMPANY" : "智慧音乐发行",
+		"ALBUM_PRODUCER" : "DJ阿智",
+		"ARTIST_ID" : "13"
+	},
+	{
+		"ALBUM_ID" : "27cee128-9",
+		"ALBUM_NAME" : "BIGBANG",
+		"ALBUM_RELEASEDATE" : "2007-05-26T17:56:48.000Z",
+		"ALBUM_COMPANY" : "创新音乐传媒",
+		"ALBUM_PRODUCER" : "BIGBANG",
+		"ARTIST_ID" : "5"
+	},
+	{
+		"ALBUM_ID" : "5f9a9abc-1",
+		"ALBUM_NAME" : "余佳运",
+		"ALBUM_RELEASEDATE" : "2001-07-27T05:43:49.000Z",
+		"ALBUM_COMPANY" : "绿洲乐律",
+		"ALBUM_PRODUCER" : "余佳运",
+		"ARTIST_ID" : "49"
+	},
+	{
+		"ALBUM_ID" : "c144bfd2-b",
+		"ALBUM_NAME" : "蔡依林",
+		"ALBUM_RELEASEDATE" : "2007-01-26T23:57:22.000Z",
+		"ALBUM_COMPANY" : "山峰悦听",
+		"ALBUM_PRODUCER" : "蔡依林",
+		"ARTIST_ID" : "134"
+	},
+	{
+		"ALBUM_ID" : "400ac847-5",
+		"ALBUM_NAME" : "新秀",
+		"ALBUM_RELEASEDATE" : "2020-01-16T18:48:39.000Z",
+		"ALBUM_COMPANY" : "创新音乐发行",
+		"ALBUM_PRODUCER" : "新秀",
+		"ARTIST_ID" : "93"
+	},
+	{
+		"ALBUM_ID" : "e80b8d0d-4",
+		"ALBUM_NAME" : "mac ova seas",
+		"ALBUM_RELEASEDATE" : "2023-11-07T15:07:02.000Z",
+		"ALBUM_COMPANY" : "曙光音乐",
+		"ALBUM_PRODUCER" : "mac ova seas",
+		"ARTIST_ID" : "27"
+	},
+	{
+		"ALBUM_ID" : "42e0890e-e",
+		"ALBUM_NAME" : "Beyond",
+		"ALBUM_RELEASEDATE" : "2023-07-22T00:48:05.000Z",
+		"ALBUM_COMPANY" : "金辉乐律",
+		"ALBUM_PRODUCER" : "Beyond",
+		"ARTIST_ID" : "4"
+	},
+	{
+		"ALBUM_ID" : "cdb20e78-9",
+		"ALBUM_NAME" : "Justin Bieber",
+		"ALBUM_RELEASEDATE" : "1992-12-29T15:19:55.000Z",
+		"ALBUM_COMPANY" : "曙光音乐出品",
+		"ALBUM_PRODUCER" : "Justin Bieber",
+		"ARTIST_ID" : "22"
+	},
+	{
+		"ALBUM_ID" : "0f6f4669-5",
+		"ALBUM_NAME" : "怪阿姨",
+		"ALBUM_RELEASEDATE" : "2015-02-10T04:05:18.000Z",
+		"ALBUM_COMPANY" : "星辰乐律",
+		"ALBUM_PRODUCER" : "怪阿姨",
+		"ARTIST_ID" : "91"
+	},
+	{
+		"ALBUM_ID" : "3f03fab4-0",
+		"ALBUM_NAME" : "Billie Eilish",
+		"ALBUM_RELEASEDATE" : "2014-05-24T11:45:10.000Z",
+		"ALBUM_COMPANY" : "山峰乐律",
+		"ALBUM_PRODUCER" : "Billie Eilish",
+		"ARTIST_ID" : "6"
+	},
+	{
+		"ALBUM_ID" : "f6f05b1b-f",
+		"ALBUM_NAME" : "闻人听書_",
+		"ALBUM_RELEASEDATE" : "1997-06-03T07:16:24.000Z",
+		"ALBUM_COMPANY" : "绿洲悦听",
+		"ALBUM_PRODUCER" : "闻人听書_",
+		"ARTIST_ID" : "149"
+	},
+	{
+		"ALBUM_ID" : "01afae4f-4",
+		"ALBUM_NAME" : "徐佳莹",
+		"ALBUM_RELEASEDATE" : "2024-05-12T14:40:21.000Z",
+		"ALBUM_COMPANY" : "曙光乐律",
+		"ALBUM_PRODUCER" : "徐佳莹",
+		"ARTIST_ID" : "90"
+	},
+	{
+		"ALBUM_ID" : "174c7770-d",
+		"ALBUM_NAME" : "张靓颖",
+		"ALBUM_RELEASEDATE" : "2010-01-04T21:42:44.000Z",
+		"ALBUM_COMPANY" : "山峰音乐传媒",
+		"ALBUM_PRODUCER" : "张靓颖",
+		"ARTIST_ID" : "87"
+	},
+	{
+		"ALBUM_ID" : "cb4b1310-0",
+		"ALBUM_NAME" : "emovo",
+		"ALBUM_RELEASEDATE" : "2003-04-08T09:20:49.000Z",
+		"ALBUM_COMPANY" : "智慧音乐传媒",
+		"ALBUM_PRODUCER" : "emovo",
+		"ARTIST_ID" : "15"
+	},
+	{
+		"ALBUM_ID" : "dc06d8ee-8",
+		"ALBUM_NAME" : "ljz329",
+		"ALBUM_RELEASEDATE" : "2017-03-17T23:07:08.000Z",
+		"ALBUM_COMPANY" : "山峰音乐",
+		"ALBUM_PRODUCER" : "ljz329",
+		"ARTIST_ID" : "26"
+	},
+	{
+		"ALBUM_ID" : "93eac5e7-7",
+		"ALBUM_NAME" : "果妹",
+		"ALBUM_RELEASEDATE" : "2021-05-16T20:09:39.000Z",
+		"ALBUM_COMPANY" : "蓝天音乐发行",
+		"ALBUM_PRODUCER" : "果妹",
+		"ARTIST_ID" : "105"
+	},
+	{
+		"ALBUM_ID" : "09f3769d-c",
+		"ALBUM_NAME" : "队长",
+		"ALBUM_RELEASEDATE" : "2014-07-03T17:36:17.000Z",
+		"ALBUM_COMPANY" : "智慧音乐",
+		"ALBUM_PRODUCER" : "队长",
+		"ARTIST_ID" : "150"
+	},
+	{
+		"ALBUM_ID" : "c06ea010-e",
+		"ALBUM_NAME" : "王赫野",
+		"ALBUM_RELEASEDATE" : "2016-03-02T13:44:15.000Z",
+		"ALBUM_COMPANY" : "星辰乐律",
+		"ALBUM_PRODUCER" : "王赫野",
+		"ARTIST_ID" : "122"
+	},
+	{
+		"ALBUM_ID" : "41f25bde-4",
+		"ALBUM_NAME" : "姚晓棠",
+		"ALBUM_RELEASEDATE" : "1997-07-07T11:27:52.000Z",
+		"ALBUM_COMPANY" : "创新音乐出品",
+		"ALBUM_PRODUCER" : "姚晓棠",
+		"ARTIST_ID" : "70"
+	},
+	{
+		"ALBUM_ID" : "144319ac-9",
+		"ALBUM_NAME" : "吴莫愁",
+		"ALBUM_RELEASEDATE" : "2004-10-17T18:58:42.000Z",
+		"ALBUM_COMPANY" : "创新音乐出品",
+		"ALBUM_PRODUCER" : "吴莫愁",
+		"ARTIST_ID" : "61"
+	},
+	{
+		"ALBUM_ID" : "0ec5758e-3",
+		"ALBUM_NAME" : "JORDANN",
+		"ALBUM_RELEASEDATE" : "2005-08-04T12:17:14.000Z",
+		"ALBUM_COMPANY" : "金辉音乐",
+		"ALBUM_PRODUCER" : "JORDANN",
+		"ARTIST_ID" : "21"
+	},
+	{
+		"ALBUM_ID" : "29a45290-3",
+		"ALBUM_NAME" : "小瑞",
+		"ALBUM_RELEASEDATE" : "2007-12-07T00:01:11.000Z",
+		"ALBUM_COMPANY" : "创新悦听",
+		"ALBUM_PRODUCER" : "小瑞",
+		"ARTIST_ID" : "76"
+	},
+	{
+		"ALBUM_ID" : "93f41eef-3",
+		"ALBUM_NAME" : "颜人中",
+		"ALBUM_RELEASEDATE" : "2023-10-31T04:56:06.000Z",
+		"ALBUM_COMPANY" : "海蓝音乐发行",
+		"ALBUM_PRODUCER" : "颜人中",
+		"ARTIST_ID" : "161"
+	},
+	{
+		"ALBUM_ID" : "73a03769-1",
+		"ALBUM_NAME" : "kkluv",
+		"ALBUM_RELEASEDATE" : "1997-09-12T22:26:15.000Z",
+		"ALBUM_COMPANY" : "绿洲音乐出品",
+		"ALBUM_PRODUCER" : "kkluv",
+		"ARTIST_ID" : "24"
+	},
+	{
+		"ALBUM_ID" : "0c5026e2-1",
+		"ALBUM_NAME" : "阿肆",
+		"ALBUM_RELEASEDATE" : "2007-06-27T21:54:45.000Z",
+		"ALBUM_COMPANY" : "绿洲音乐传媒",
+		"ALBUM_PRODUCER" : "阿肆",
+		"ARTIST_ID" : "154"
+	},
+	{
+		"ALBUM_ID" : "48949c79-b",
+		"ALBUM_NAME" : "杨宗纬",
+		"ALBUM_RELEASEDATE" : "1993-06-20T02:29:18.000Z",
+		"ALBUM_COMPANY" : "海蓝乐律",
+		"ALBUM_PRODUCER" : "杨宗纬",
+		"ARTIST_ID" : "102"
+	},
+	{
+		"ALBUM_ID" : "78e6b701-6",
+		"ALBUM_NAME" : "王力宏",
+		"ALBUM_RELEASEDATE" : "2003-12-23T21:52:12.000Z",
+		"ALBUM_COMPANY" : "山峰音乐传媒",
+		"ALBUM_PRODUCER" : "王力宏",
+		"ARTIST_ID" : "117"
+	},
+	{
+		"ALBUM_ID" : "22c1c6b7-6",
+		"ALBUM_NAME" : "G.E.M.邓紫棋",
+		"ALBUM_RELEASEDATE" : "2000-07-25T02:15:48.000Z",
+		"ALBUM_COMPANY" : "蓝天音乐",
+		"ALBUM_PRODUCER" : "G.E.M.邓紫棋",
+		"ARTIST_ID" : "17"
+	},
+	{
+		"ALBUM_ID" : "ad1765ce-9",
+		"ALBUM_NAME" : "Taylor Swift",
+		"ALBUM_RELEASEDATE" : "2017-07-05T08:50:54.000Z",
+		"ALBUM_COMPANY" : "海蓝乐律",
+		"ALBUM_PRODUCER" : "Taylor Swift",
+		"ARTIST_ID" : "34"
+	},
+	{
+		"ALBUM_ID" : "7dc1e93b-7",
+		"ALBUM_NAME" : "oz",
+		"ALBUM_RELEASEDATE" : "2001-04-23T03:11:58.000Z",
+		"ALBUM_COMPANY" : "星辰音乐发行",
+		"ALBUM_PRODUCER" : "oz",
+		"ARTIST_ID" : "31"
+	},
+	{
+		"ALBUM_ID" : "b3c8261c-7",
+		"ALBUM_NAME" : "王OK",
+		"ALBUM_RELEASEDATE" : "2021-07-23T12:35:34.000Z",
+		"ALBUM_COMPANY" : "山峰悦听",
+		"ALBUM_PRODUCER" : "王OK",
+		"ARTIST_ID" : "115"
+	},
+	{
+		"ALBUM_ID" : "79b7e7e0-8",
+		"ALBUM_NAME" : "扬布拉德",
+		"ALBUM_RELEASEDATE" : "2006-09-26T02:47:59.000Z",
+		"ALBUM_COMPANY" : "山峰音乐发行",
+		"ALBUM_PRODUCER" : "扬布拉德",
+		"ARTIST_ID" : "92"
+	},
+	{
+		"ALBUM_ID" : "aa72ceb3-0",
+		"ALBUM_NAME" : "菲道尔",
+		"ALBUM_RELEASEDATE" : "2016-06-03T19:02:22.000Z",
+		"ALBUM_COMPANY" : "星辰音乐传媒",
+		"ALBUM_PRODUCER" : "菲道尔",
+		"ARTIST_ID" : "131"
+	},
+	{
+		"ALBUM_ID" : "2ba639dc-b",
+		"ALBUM_NAME" : "弦子",
+		"ALBUM_RELEASEDATE" : "1997-02-25T08:01:20.000Z",
+		"ALBUM_COMPANY" : "创新乐律",
+		"ALBUM_PRODUCER" : "弦子",
+		"ARTIST_ID" : "89"
+	},
+	{
+		"ALBUM_ID" : "855f94d1-3",
+		"ALBUM_NAME" : "黄丽玲",
+		"ALBUM_RELEASEDATE" : "1996-07-21T06:12:59.000Z",
+		"ALBUM_COMPANY" : "智慧音乐传媒",
+		"ALBUM_PRODUCER" : "黄丽玲",
+		"ARTIST_ID" : "163"
+	},
+	{
+		"ALBUM_ID" : "b73e6afc-4",
+		"ALBUM_NAME" : "毛不易",
+		"ALBUM_RELEASEDATE" : "2008-07-22T04:57:42.000Z",
+		"ALBUM_COMPANY" : "创新音乐",
+		"ALBUM_PRODUCER" : "毛不易",
+		"ARTIST_ID" : "107"
+	},
+	{
+		"ALBUM_ID" : "336285eb-e",
+		"ALBUM_NAME" : "蔡健雅",
+		"ALBUM_RELEASEDATE" : "1999-09-05T23:55:26.000Z",
+		"ALBUM_COMPANY" : "山峰音乐传媒",
+		"ALBUM_PRODUCER" : "蔡健雅",
+		"ARTIST_ID" : "135"
+	},
+	{
+		"ALBUM_ID" : "317b9d01-8",
+		"ALBUM_NAME" : "刘思达LOFTHESTAR",
+		"ALBUM_RELEASEDATE" : "2004-10-09T07:39:54.000Z",
+		"ALBUM_COMPANY" : "绿洲音乐出品",
+		"ALBUM_PRODUCER" : "刘思达LOFTHESTAR",
+		"ARTIST_ID" : "54"
+	},
+	{
+		"ALBUM_ID" : "fa64d705-4",
+		"ALBUM_NAME" : "韦礼安",
+		"ALBUM_RELEASEDATE" : "2006-02-04T02:47:01.000Z",
+		"ALBUM_COMPANY" : "星辰音乐",
+		"ALBUM_PRODUCER" : "韦礼安",
+		"ARTIST_ID" : "159"
+	},
+	{
+		"ALBUM_ID" : "3762e1f5-3",
+		"ALBUM_NAME" : "TC",
+		"ALBUM_RELEASEDATE" : "1990-05-27T23:44:53.000Z",
+		"ALBUM_COMPANY" : "星辰音乐传媒",
+		"ALBUM_PRODUCER" : "TC",
+		"ARTIST_ID" : "35"
+	},
+	{
+		"ALBUM_ID" : "ab2b2689-5",
+		"ALBUM_NAME" : "王贰浪",
+		"ALBUM_RELEASEDATE" : "2001-02-25T11:30:34.000Z",
+		"ALBUM_COMPANY" : "智慧音乐发行",
+		"ALBUM_PRODUCER" : "王贰浪",
+		"ARTIST_ID" : "121"
+	},
+	{
+		"ALBUM_ID" : "73fcccb4-0",
+		"ALBUM_NAME" : "不是花火呀",
+		"ALBUM_RELEASEDATE" : "2010-10-23T06:07:38.000Z",
+		"ALBUM_COMPANY" : "绿洲音乐",
+		"ALBUM_PRODUCER" : "不是花火呀",
+		"ARTIST_ID" : "45"
+	},
+	{
+		"ALBUM_ID" : "51073dc0-2",
+		"ALBUM_NAME" : "买辣椒也用券",
+		"ALBUM_RELEASEDATE" : "2016-02-17T17:54:01.000Z",
+		"ALBUM_COMPANY" : "星辰音乐出品",
+		"ALBUM_PRODUCER" : "买辣椒也用券",
+		"ARTIST_ID" : "46"
+	},
+	{
+		"ALBUM_ID" : "4454bf34-2",
+		"ALBUM_NAME" : "哩哩",
+		"ALBUM_RELEASEDATE" : "1992-01-06T13:50:44.000Z",
+		"ALBUM_COMPANY" : "蓝天音乐出品",
+		"ALBUM_PRODUCER" : "哩哩",
+		"ARTIST_ID" : "66"
+	},
+	{
+		"ALBUM_ID" : "c8283c33-e",
+		"ALBUM_NAME" : "DJ铁柱",
+		"ALBUM_RELEASEDATE" : "2012-10-19T06:44:56.000Z",
+		"ALBUM_COMPANY" : "星辰乐律",
+		"ALBUM_PRODUCER" : "DJ铁柱",
+		"ARTIST_ID" : "12"
+	},
+	{
+		"ALBUM_ID" : "f4db9362-f",
+		"ALBUM_NAME" : "马思唯",
+		"ALBUM_RELEASEDATE" : "2007-01-04T07:05:57.000Z",
+		"ALBUM_COMPANY" : "蓝天音乐",
+		"ALBUM_PRODUCER" : "马思唯",
+		"ARTIST_ID" : "162"
+	},
+	{
+		"ALBUM_ID" : "ac729f3d-8",
+		"ALBUM_NAME" : "谭维维",
+		"ALBUM_RELEASEDATE" : "2016-11-21T06:21:12.000Z",
+		"ALBUM_COMPANY" : "海蓝悦听",
+		"ALBUM_PRODUCER" : "谭维维",
+		"ARTIST_ID" : "140"
+	},
+	{
+		"ALBUM_ID" : "5f315a0c-f",
+		"ALBUM_NAME" : "thomeboydontk",
+		"ALBUM_RELEASEDATE" : "2016-08-10T14:36:02.000Z",
+		"ALBUM_COMPANY" : "曙光悦听",
+		"ALBUM_PRODUCER" : "thomeboydontk",
+		"ARTIST_ID" : "38"
+	},
+	{
+		"ALBUM_ID" : "099c915b-a",
+		"ALBUM_NAME" : "TizzyT",
+		"ALBUM_RELEASEDATE" : "2021-09-19T01:37:53.000Z",
+		"ALBUM_COMPANY" : "曙光音乐传媒",
+		"ALBUM_PRODUCER" : "TizzyT",
+		"ARTIST_ID" : "39"
+	},
+	{
+		"ALBUM_ID" : "fb643428-1",
+		"ALBUM_NAME" : "沐泽",
+		"ALBUM_RELEASEDATE" : "2007-11-04T00:06:43.000Z",
+		"ALBUM_COMPANY" : "蓝天音乐发行",
+		"ALBUM_PRODUCER" : "沐泽",
+		"ARTIST_ID" : "110"
+	},
+	{
+		"ALBUM_ID" : "d67864b4-4",
+		"ALBUM_NAME" : "孙燕姿",
+		"ALBUM_RELEASEDATE" : "1991-02-19T12:28:58.000Z",
+		"ALBUM_COMPANY" : "创新音乐发行",
+		"ALBUM_PRODUCER" : "孙燕姿",
+		"ARTIST_ID" : "72"
+	},
+	{
+		"ALBUM_ID" : "f3251af4-a",
+		"ALBUM_NAME" : "小田音乐社",
+		"ALBUM_RELEASEDATE" : "1990-05-12T22:39:47.000Z",
+		"ALBUM_COMPANY" : "曙光音乐发行",
+		"ALBUM_PRODUCER" : "小田音乐社",
+		"ARTIST_ID" : "77"
+	},
+	{
+		"ALBUM_ID" : "44b9146e-3",
+		"ALBUM_NAME" : "Charlie Puth",
+		"ALBUM_RELEASEDATE" : "2017-02-21T11:08:47.000Z",
+		"ALBUM_COMPANY" : "智慧音乐发行",
+		"ALBUM_PRODUCER" : "Charlie Puth",
+		"ARTIST_ID" : "10"
+	},
+	{
+		"ALBUM_ID" : "27cdd45d-7",
+		"ALBUM_NAME" : "梁咏琪",
+		"ALBUM_RELEASEDATE" : "1994-12-14T11:25:17.000Z",
+		"ALBUM_COMPANY" : "蓝天音乐传媒",
+		"ALBUM_PRODUCER" : "梁咏琪",
+		"ARTIST_ID" : "106"
+	},
+	{
+		"ALBUM_ID" : "24a417e8-3",
+		"ALBUM_NAME" : "曲婉婷",
+		"ALBUM_RELEASEDATE" : "1992-04-09T18:23:51.000Z",
+		"ALBUM_COMPANY" : "智慧乐律",
+		"ALBUM_PRODUCER" : "曲婉婷",
+		"ARTIST_ID" : "96"
+	},
+	{
+		"ALBUM_ID" : "c6dd83e9-8",
+		"ALBUM_NAME" : "邵帅",
+		"ALBUM_RELEASEDATE" : "2002-10-06T02:39:13.000Z",
+		"ALBUM_COMPANY" : "创新乐律",
+		"ALBUM_PRODUCER" : "邵帅",
+		"ARTIST_ID" : "143"
+	},
+	{
+		"ALBUM_ID" : "9dabf33a-7",
+		"ALBUM_NAME" : "刘惜君",
+		"ALBUM_RELEASEDATE" : "2006-02-06T08:43:02.000Z",
+		"ALBUM_COMPANY" : "曙光音乐发行",
+		"ALBUM_PRODUCER" : "刘惜君",
+		"ARTIST_ID" : "55"
+	},
+	{
+		"ALBUM_ID" : "eeec12bf-9",
+		"ALBUM_NAME" : "阿梨粤",
+		"ALBUM_RELEASEDATE" : "2013-09-20T16:02:22.000Z",
+		"ALBUM_COMPANY" : "绿洲乐律",
+		"ALBUM_PRODUCER" : "阿梨粤",
+		"ARTIST_ID" : "153"
+	},
+	{
+		"ALBUM_ID" : "19b4f3f6-f",
+		"ALBUM_NAME" : "MC HotDog 热狗",
+		"ALBUM_RELEASEDATE" : "2010-04-23T03:00:53.000Z",
+		"ALBUM_COMPANY" : "银月音乐",
+		"ALBUM_PRODUCER" : "MC HotDog 热狗",
+		"ARTIST_ID" : "28"
+	},
+	{
+		"ALBUM_ID" : "6e48f2e9-d",
+		"ALBUM_NAME" : "凤凰传奇",
+		"ALBUM_RELEASEDATE" : "2007-11-14T04:01:20.000Z",
+		"ALBUM_COMPANY" : "银月音乐发行",
+		"ALBUM_PRODUCER" : "凤凰传奇",
+		"ARTIST_ID" : "51"
+	},
+	{
+		"ALBUM_ID" : "6c09788f-e",
+		"ALBUM_NAME" : "袁娅维TIA RAY",
+		"ALBUM_RELEASEDATE" : "2004-09-10T05:52:40.000Z",
+		"ALBUM_COMPANY" : "智慧悦听",
+		"ALBUM_PRODUCER" : "袁娅维TIA RAY",
+		"ARTIST_ID" : "137"
+	},
+	{
+		"ALBUM_ID" : "d8009798-7",
+		"ALBUM_NAME" : "华晨宇",
+		"ALBUM_RELEASEDATE" : "1997-08-02T08:33:48.000Z",
+		"ALBUM_COMPANY" : "创新音乐",
+		"ALBUM_PRODUCER" : "华晨宇",
+		"ARTIST_ID" : "56"
+	},
+	{
+		"ALBUM_ID" : "1976b32c-0",
+		"ALBUM_NAME" : "JZlee",
+		"ALBUM_RELEASEDATE" : "2002-10-26T14:50:15.000Z",
+		"ALBUM_COMPANY" : "星辰悦听",
+		"ALBUM_PRODUCER" : "JZlee",
+		"ARTIST_ID" : "23"
+	},
+	{
+		"ALBUM_ID" : "a7a544ec-b",
+		"ALBUM_NAME" : "汪苏泷",
+		"ALBUM_RELEASEDATE" : "2019-09-23T15:18:10.000Z",
+		"ALBUM_COMPANY" : "创新音乐",
+		"ALBUM_PRODUCER" : "汪苏泷",
+		"ARTIST_ID" : "108"
+	},
+	{
+		"ALBUM_ID" : "d23562a6-6",
+		"ALBUM_NAME" : "林达浪",
+		"ALBUM_RELEASEDATE" : "2010-02-03T12:12:39.000Z",
+		"ALBUM_COMPANY" : "曙光音乐传媒",
+		"ALBUM_PRODUCER" : "林达浪",
+		"ARTIST_ID" : "104"
+	},
+	{
+		"ALBUM_ID" : "e59d7008-5",
+		"ALBUM_NAME" : "张学友",
+		"ALBUM_RELEASEDATE" : "1996-08-18T11:01:30.000Z",
+		"ALBUM_COMPANY" : "金辉音乐发行",
+		"ALBUM_PRODUCER" : "张学友",
+		"ARTIST_ID" : "82"
+	},
+	{
+		"ALBUM_ID" : "95753d80-d",
+		"ALBUM_NAME" : "宝宝巴士",
+		"ALBUM_RELEASEDATE" : "2001-10-19T05:52:41.000Z",
+		"ALBUM_COMPANY" : "智慧乐律",
+		"ALBUM_PRODUCER" : "宝宝巴士",
+		"ARTIST_ID" : "73"
+	},
+	{
+		"ALBUM_ID" : "c09478a5-3",
+		"ALBUM_NAME" : "就是南方凯",
+		"ALBUM_RELEASEDATE" : "2013-03-09T07:06:16.000Z",
+		"ALBUM_COMPANY" : "星辰悦听",
+		"ALBUM_PRODUCER" : "就是南方凯",
+		"ARTIST_ID" : "78"
+	},
+	{
+		"ALBUM_ID" : "dea55992-d",
+		"ALBUM_NAME" : "张杰",
+		"ALBUM_RELEASEDATE" : "1997-02-19T17:55:14.000Z",
+		"ALBUM_COMPANY" : "金辉悦听",
+		"ALBUM_PRODUCER" : "张杰",
+		"ARTIST_ID" : "84"
+	},
+	{
+		"ALBUM_ID" : "2590a3cd-d",
+		"ALBUM_NAME" : "唐伯虎Annie",
+		"ALBUM_RELEASEDATE" : "2006-10-02T06:08:15.000Z",
+		"ALBUM_COMPANY" : "蓝天音乐发行",
+		"ALBUM_PRODUCER" : "唐伯虎Annie",
+		"ARTIST_ID" : "67"
+	},
+	{
+		"ALBUM_ID" : "d23c3ac6-d",
+		"ALBUM_NAME" : "Ron",
+		"ALBUM_RELEASEDATE" : "2001-02-13T15:46:03.000Z",
+		"ALBUM_COMPANY" : "金辉悦听",
+		"ALBUM_PRODUCER" : "Ron",
+		"ARTIST_ID" : "32"
+	},
+	{
+		"ALBUM_ID" : "02d444a7-f",
+		"ALBUM_NAME" : "Mikey-18",
+		"ALBUM_RELEASEDATE" : "2002-03-06T23:24:08.000Z",
+		"ALBUM_COMPANY" : "银月悦听",
+		"ALBUM_PRODUCER" : "Mikey-18",
+		"ARTIST_ID" : "29"
+	},
+	{
+		"ALBUM_ID" : "40c73596-f",
+		"ALBUM_NAME" : "张韶涵",
+		"ALBUM_RELEASEDATE" : "1990-02-05T12:48:04.000Z",
+		"ALBUM_COMPANY" : "创新音乐传媒",
+		"ALBUM_PRODUCER" : "张韶涵",
+		"ARTIST_ID" : "88"
+	},
+	{
+		"ALBUM_ID" : "a01bc3f2-9",
+		"ALBUM_NAME" : "那奇沃夫",
+		"ALBUM_RELEASEDATE" : "1990-10-25T23:30:07.000Z",
+		"ALBUM_COMPANY" : "海蓝乐律",
+		"ALBUM_PRODUCER" : "那奇沃夫",
+		"ARTIST_ID" : "142"
+	},
+	{
+		"ALBUM_ID" : "e8ade61f-a",
+		"ALBUM_NAME" : "CashMoon",
+		"ALBUM_RELEASEDATE" : "2000-12-02T21:54:40.000Z",
+		"ALBUM_COMPANY" : "曙光音乐发行",
+		"ALBUM_PRODUCER" : "CashMoon",
+		"ARTIST_ID" : "9"
+	},
+	{
+		"ALBUM_ID" : "8beff40a-6",
+		"ALBUM_NAME" : "谭咏麟",
+		"ALBUM_RELEASEDATE" : "1998-07-30T08:15:44.000Z",
+		"ALBUM_COMPANY" : "曙光音乐",
+		"ALBUM_PRODUCER" : "谭咏麟",
+		"ARTIST_ID" : "139"
+	},
+	{
+		"ALBUM_ID" : "c4f1f622-9",
+		"ALBUM_NAME" : "暗杠",
+		"ALBUM_RELEASEDATE" : "2024-06-24T19:58:26.000Z",
+		"ALBUM_COMPANY" : "绿洲音乐",
+		"ALBUM_PRODUCER" : "暗杠",
+		"ARTIST_ID" : "95"
+	},
+	{
+		"ALBUM_ID" : "c7368ab5-3",
+		"ALBUM_NAME" : "Wiz_H张子豪",
+		"ALBUM_RELEASEDATE" : "2001-02-12T03:24:30.000Z",
+		"ALBUM_COMPANY" : "蓝天悦听",
+		"ALBUM_PRODUCER" : "Wiz_H张子豪",
+		"ARTIST_ID" : "41"
+	},
+	{
+		"ALBUM_ID" : "ade6dcaf-7",
+		"ALBUM_NAME" : "YOASOBI",
+		"ALBUM_RELEASEDATE" : "2006-05-01T12:56:47.000Z",
+		"ALBUM_COMPANY" : "金辉乐律",
+		"ALBUM_PRODUCER" : "YOASOBI",
+		"ARTIST_ID" : "42"
+	},
+	{
+		"ALBUM_ID" : "bf576312-f",
+		"ALBUM_NAME" : "Wiz Khalifa",
+		"ALBUM_RELEASEDATE" : "1993-03-26T02:33:00.000Z",
+		"ALBUM_COMPANY" : "曙光音乐",
+		"ALBUM_PRODUCER" : "Wiz Khalifa",
+		"ARTIST_ID" : "40"
+	},
+	{
+		"ALBUM_ID" : "fe0127da-2",
+		"ALBUM_NAME" : "单依纯",
+		"ALBUM_RELEASEDATE" : "2000-02-01T15:47:40.000Z",
+		"ALBUM_COMPANY" : "创新悦听",
+		"ALBUM_PRODUCER" : "单依纯",
+		"ARTIST_ID" : "57"
+	},
+	{
+		"ALBUM_ID" : "eda616f6-b",
+		"ALBUM_NAME" : "缘为冰",
+		"ALBUM_RELEASEDATE" : "1996-04-27T03:42:22.000Z",
+		"ALBUM_COMPANY" : "海蓝音乐",
+		"ALBUM_PRODUCER" : "缘为冰",
+		"ARTIST_ID" : "124"
+	},
+	{
+		"ALBUM_ID" : "c3e171cf-e",
+		"ALBUM_NAME" : "阿YueYue",
+		"ALBUM_RELEASEDATE" : "2023-03-28T15:24:29.000Z",
+		"ALBUM_COMPANY" : "星辰音乐",
+		"ALBUM_PRODUCER" : "阿YueYue",
+		"ARTIST_ID" : "151"
+	},
+	{
+		"ALBUM_ID" : "fcb27613-2",
+		"ALBUM_NAME" : "郑润泽",
+		"ALBUM_RELEASEDATE" : "2020-11-04T19:16:23.000Z",
+		"ALBUM_COMPANY" : "山峰音乐传媒",
+		"ALBUM_PRODUCER" : "郑润泽",
+		"ARTIST_ID" : "144"
+	},
+	{
+		"ALBUM_ID" : "1ca841e4-1",
+		"ALBUM_NAME" : "刘大拿",
+		"ALBUM_RELEASEDATE" : "2019-07-04T13:02:44.000Z",
+		"ALBUM_COMPANY" : "创新音乐发行",
+		"ALBUM_PRODUCER" : "刘大拿",
+		"ARTIST_ID" : "53"
+	},
+	{
+		"ALBUM_ID" : "737e5c89-7",
+		"ALBUM_NAME" : "王宇宙Leto",
+		"ALBUM_RELEASEDATE" : "2017-10-02T19:50:02.000Z",
+		"ALBUM_COMPANY" : "曙光音乐",
+		"ALBUM_PRODUCER" : "王宇宙Leto",
+		"ARTIST_ID" : "119"
+	},
+	{
+		"ALBUM_ID" : "8c1424db-9",
+		"ALBUM_NAME" : "Capper",
+		"ALBUM_RELEASEDATE" : "2008-03-05T19:31:05.000Z",
+		"ALBUM_COMPANY" : "星辰乐律",
+		"ALBUM_PRODUCER" : "Capper",
+		"ARTIST_ID" : "8"
+	},
+	{
+		"ALBUM_ID" : "0bb445bd-a",
+		"ALBUM_NAME" : "Adam Lambert",
+		"ALBUM_RELEASEDATE" : "2014-03-28T00:59:46.000Z",
+		"ALBUM_COMPANY" : "智慧音乐发行",
+		"ALBUM_PRODUCER" : "Adam Lambert",
+		"ARTIST_ID" : "2"
+	},
+	{
+		"ALBUM_ID" : "b75ade73-6",
+		"ALBUM_NAME" : "王以太",
+		"ALBUM_RELEASEDATE" : "1999-01-03T18:51:15.000Z",
+		"ALBUM_COMPANY" : "海蓝音乐",
+		"ALBUM_PRODUCER" : "王以太",
+		"ARTIST_ID" : "116"
+	},
+	{
+		"ALBUM_ID" : "3f4f9601-3",
+		"ALBUM_NAME" : "张碧晨",
+		"ALBUM_RELEASEDATE" : "2021-06-07T12:57:24.000Z",
+		"ALBUM_COMPANY" : "蓝天乐律",
+		"ALBUM_PRODUCER" : "张碧晨",
+		"ARTIST_ID" : "85"
+	},
+	{
+		"ALBUM_ID" : "6e8695df-a",
+		"ALBUM_NAME" : "Fine乐团",
+		"ALBUM_RELEASEDATE" : "1992-06-08T18:20:42.000Z",
+		"ALBUM_COMPANY" : "蓝天乐律",
+		"ALBUM_PRODUCER" : "Fine乐团",
+		"ARTIST_ID" : "16"
+	}
+]}

@@ -1,0 +1,98 @@
+{
+"USER_COLLECT_SONG": [
+	{
+		"USER_ID" : "c8cee8ebdd",
+		"SONG_ID" : "d1bd1919-a",
+		"COLLECT_SONG_DATE" : "2024-09-04T02:36:17.000Z"
+	},
+	{
+		"USER_ID" : "001",
+		"SONG_ID" : "49d09a2a-c",
+		"COLLECT_SONG_DATE" : "2024-08-28T03:16:11.000Z"
+	},
+	{
+		"USER_ID" : "001",
+		"SONG_ID" : "08fb234b-2",
+		"COLLECT_SONG_DATE" : "2024-09-03T21:34:56.000Z"
+	},
+	{
+		"USER_ID" : "c8cee8ebdd",
+		"SONG_ID" : "6e86e3d0-f",
+		"COLLECT_SONG_DATE" : "2024-09-04T02:37:45.000Z"
+	},
+	{
+		"USER_ID" : "6375d6f897",
+		"SONG_ID" : "45fb6d9b-5",
+		"COLLECT_SONG_DATE" : "2024-09-04T06:48:34.000Z"
+	},
+	{
+		"USER_ID" : "001",
+		"SONG_ID" : "2bc50733-6",
+		"COLLECT_SONG_DATE" : "2024-09-04T05:29:17.000Z"
+	},
+	{
+		"USER_ID" : "001",
+		"SONG_ID" : "851d0ef1-f",
+		"COLLECT_SONG_DATE" : "2024-09-03T21:34:09.000Z"
+	},
+	{
+		"USER_ID" : "001",
+		"SONG_ID" : "03777639-c",
+		"COLLECT_SONG_DATE" : "2024-09-04T02:10:22.000Z"
+	},
+	{
+		"USER_ID" : "c8cee8ebdd",
+		"SONG_ID" : "b65c8c1b-7",
+		"COLLECT_SONG_DATE" : "2024-09-04T03:12:37.000Z"
+	},
+	{
+		"USER_ID" : "001",
+		"SONG_ID" : "ca19516c-0",
+		"COLLECT_SONG_DATE" : "2024-08-28T03:15:51.000Z"
+	},
+	{
+		"USER_ID" : "001",
+		"SONG_ID" : "44a38b25-4",
+		"COLLECT_SONG_DATE" : "2024-09-04T02:09:34.000Z"
+	},
+	{
+		"USER_ID" : "6375d6f897",
+		"SONG_ID" : "ca19516c-0",
+		"COLLECT_SONG_DATE" : "2024-09-04T06:49:18.000Z"
+	},
+	{
+		"USER_ID" : "001",
+		"SONG_ID" : "739c85ba-0",
+		"COLLECT_SONG_DATE" : "2024-09-05T07:24:08.000Z"
+	},
+	{
+		"USER_ID" : "001",
+		"SONG_ID" : "32ff5158-6",
+		"COLLECT_SONG_DATE" : "2024-08-28T02:04:26.000Z"
+	},
+	{
+		"USER_ID" : "001",
+		"SONG_ID" : "1b5ed95e-d",
+		"COLLECT_SONG_DATE" : "2024-09-02T03:17:49.000Z"
+	},
+	{
+		"USER_ID" : "001",
+		"SONG_ID" : "fc12f879-1",
+		"COLLECT_SONG_DATE" : "2024-09-05T03:22:42.000Z"
+	},
+	{
+		"USER_ID" : "001",
+		"SONG_ID" : "45034c3c-2",
+		"COLLECT_SONG_DATE" : "2024-08-28T02:04:31.000Z"
+	},
+	{
+		"USER_ID" : "001",
+		"SONG_ID" : "b3b2958c-2",
+		"COLLECT_SONG_DATE" : "2024-08-28T03:16:00.000Z"
+	},
+	{
+		"USER_ID" : "c8cee8ebdd",
+		"SONG_ID" : "44a38b25-4",
+		"COLLECT_SONG_DATE" : "2024-09-04T02:26:08.000Z"
+	}
+]}
